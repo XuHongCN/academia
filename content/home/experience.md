@@ -26,9 +26,9 @@ date_format = "Jan 2006"
   date_end = "2020-11-30"
   description = """
   Achievements include:
-  * Fast CT setup development
-  * Image reconstruction & processing
-  * AI image denoising
+  -Fast CT setup development
+  -Image reconstruction & processing
+  -AI image denoising
   <img src="http://tiger.web.psi.ch/PSI-Logo_narrow.jpg" width="100">
   """
 
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_end = "2019-02-01"
   description = """
   Facilitated collaboration with industrial giant in fuel cell vehicle field and coordinated Toyota funded project. Published 2 co-papers.
-  <img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjax-WK8_TmAhWPbVAKHSuGDZsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.westernslopeauto.com%2Fblog%2Fwhat-is-the-meaning-of-the-toyota-logo%2F&psig=AOvVaw32DmAyE1ax47iRZJkQCVJG&ust=1578603570834188" width="100">
+  <img src="https://tammauto.com/wp-content/uploads/2017/11/toyota.png" width="60">
   """
 
 [[experience]]
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   date_end = "2016-06-01"
   description = """
   Involved in quality management with specialized in failure analysis of thermal and electrical stressed Infineon developed semiconductor chips.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Infineon-Logo.svg/2000px-Infineon-Logo.svg.png" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Infineon-Logo.svg/2000px-Infineon-Logo.svg.png" width="80">
   """
 
 [[experience]]
@@ -65,6 +65,6 @@ date_format = "Jan 2006"
   date_end = "2015-08-01"
   description = """
   Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European XFEL with technical requirements consideration under ultra-high vacuum.
-  <img src="http://www.eso.org/public/archives/logos/screen/xfel.jpg" width="100">
+  <img src="http://www.eso.org/public/archives/logos/screen/xfel.jpg" width="60">
   """
 +++
