@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   date_start = "2017-02-20"
   date_end = "2020-11-30"
   description = """
-  * SNF (Swiss) & TOYOTA (Japan) Funded; ECS Travel Grant (US Army Res)
-  * Courses: Renewable Energy (Teach. Assist.); Quantitative Big Data Imaging
+  * SNF (Swiss) & TOYOTA Funded; ECS Travel Grant (US Army Research)
+  * Courses: Renewable Energy (Teach. Assist.); Quantitative Big Imaging
   * Supervising PSI Intern in CT Image Processing and AI Denoising
   * Medical Imaging (CT/MRI) Training at University Hospital Zurich
   * IBM Data Science Professional Certificate (2019)
@@ -47,8 +47,8 @@ date_format = "Jan 2006"
   * GPA 1.43/1.0; Master Thesis (1.3/1.0); EU Erasmus+ Scholarship; 
   * S. Courses: Quantum Mechanics; Thermodynamics; Energy Materials
   * Lab Internship (1.0/1.0); Energy Seminar Presentation (1.0/1.0)
-  * EU Erasmus Exchange in Physics at Uni. of Rennes I, France (GPA 15.6/20)
-  * Neutron & X-ray School at Uni. Montpellier (2015); DPG Membership (2016)
+  * EU Erasmus Exchange in Physics at Uni. Rennes I, FR (GPA 15.6/20)
+  * Neutron & X-ray Summer School at Uni. Montpellier; DPG Member
   """
 
 [[item]]
