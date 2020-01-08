@@ -67,15 +67,16 @@ date_format = "Jan 2006"
  [[item]]
   organization = "MBA Candidate, Business Administration"
   organization_url = ""
-  title = "Smartly Institute, Washington D.C."
+  title = "Smartly Business School, Washington D.C."
   url = "https://smart.ly/the-free-mba"
   certificate_url = ""
   date_start = "2019-10-01"
   date_end = "2020-06-01"
   description = """
-  * 7% admission rate, online program, MBA level curriculum
-  * Core Courses: Accounting, Markets & Economies, Data & Decisions, Leading Organizations
-  * Marketing & Pricing, Finance, Supply Chain & Operations, Strategy & Innovation, Enterpreneurship
+  * 7% admission rate, online program, MBA-level professional education
+  * Courses: Accounting, Markets & Economies, Data & Decisions
+  * Leading Organizations, Marketing & Pricing, Corporate Finance
+  * Supply Chain & Operations, Strategy & Innovation, Enterpreneurship
   """
 
 +++
