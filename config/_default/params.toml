@@ -50,13 +50,13 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "hong.xu@live.cn"
+phone = "+41 (0)7 64 64 44 26"
+address = "Forschungsstrasse 111, Villigen PSI, CH-5232, Switzerland"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """Monday to Friday<br>
+                   9:00AM to 5:00PM"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
