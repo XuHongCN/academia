@@ -10,7 +10,7 @@ tags:
 date: "2015-08-17T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 
+external_link: https://github.com/XuHongCN/docs/raw/master/Hong_XU_Internship%20Report-%20European%20XFEL.pdf
 
 image:
   caption: "Design of Split and Delay Line "
