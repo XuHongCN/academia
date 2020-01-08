@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
 
 [content]
   # Page type to display. E.g. project.
