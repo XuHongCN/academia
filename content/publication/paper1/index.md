@@ -4,6 +4,10 @@ authors:
 - admin
 - Federica Marone
 - Shinya Nagashima
+- Hai Nguyen
+- Keisuke Kishita
+- Felix N. Büchi
+- Jens Eller
 date: "2019-11-01T00:00:00Z"
 doi: "10.1149/09208.0011ecst"
 
@@ -23,11 +27,11 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: In the last decade X-ray tomographic microscopy (XTM) has become a powerful 3D characterization technique for polymer electrolyte fuel cells. In order to improve both spatial and temporal resolution for operando polymer electrolyte fuel cell (PEFC) XTM imaging, the high magnification white beam microscope capabilities at the TOMCAT beamline of the Swiss Light Source (SLS) at Paul Scherrer Institut were explored. The image quality is evaluated in terms of contrast-to-noise ratio and in-situ water detectability for three different beam configurations and two magnifications. High water detectability levels can be achieved with a voxel size of 0.4 µm at 0.25 s scan time.
+summary: High magnification white beam microscope capabilities at the TOMCAT beamline of the Swiss Light Source (SLS) at Paul Scherrer Institut were explored. The image quality is evaluated in terms of contrast-to-noise ratio and in-situ water detectability for three different beam configurations and two magnifications. High water detectability levels can be achieved with a voxel size of 0.4 µm at 0.25 s scan time.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -63,12 +67,12 @@ projects: []
 # slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo academia's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo academia's Markdown slides feature.
+# {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
