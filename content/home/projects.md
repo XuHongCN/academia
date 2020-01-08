@@ -26,13 +26,21 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Renewable Energy"
+    name = "Energy"
     tag = "energy"
   
   [[content.filter_button]]
-    name = "X-ray Imaging"
+    name = "Imaging"
     tag = "imaging"
-  
+    
+  [[content.filter_button]]
+    name = "X-ray"
+    tag = "x-ray"
+
+  [[content.filter_button]]
+    name = "AI/ML/DL"
+    tag = "ai-ml-dl"
+    
   [[content.filter_button]]
     name = "Data Science"
     tag = "datascience"
