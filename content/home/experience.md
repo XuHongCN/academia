@@ -67,4 +67,29 @@ date_format = "Jan 2006"
   Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European XFEL with technical requirements consideration under ultra-high vacuum.
   <img src="http://www.eso.org/public/archives/logos/screen/xfel.jpg" width="40">
   """
+  
+  [[experience]]
+  title = "Modelling Trainee"
+  company = ":fr: École des Ponts ParisTech"
+  company_url = "http://www.enpc.fr/en"
+  location = "France"
+  date_start = "2015-08-01"
+  date_end = "2015-09-01"
+  description = """
+  Trained on the cyanobacteria matlab modelling system developed by LEESU and aimed to apply it into controlling system of lakes and rivers in China.
+  <img src="http://www.enpc.fr/sites/enpc.fr/files/ckfinder/ckfinder/archives/l-ecole/7-ecole_ponts_rvb_transparent.png" width="50">
+  """
+  
+  [[experience]]
+  title = "Business Analyst"
+  company = ":cn: Taishan Capital Corporation"
+  company_url = "http://www.taishancapital.com/eabout.htm"
+  location = "China"
+  date_start = "2013-05-01"
+  date_end = "2013-07-01"
+  description = """
+  Assisted in preparation of business emails, letters and presentation slides for two energy companies in China.
+  <img src="http://www.taishancapital.com/images/taishan_logo2.jpg" width="50">
+  """
+  
 +++
