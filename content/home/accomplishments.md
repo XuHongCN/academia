@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   * Leading Organizations, Marketing & Pricing, Corporate Finance
   * Supply Chain & Operations, Strategy & Innovation, Enterpreneurship
   * Collaborative case study groups, presentations, networking events
-  <img src=" https://blog.smart.ly/wp-content/uploads/2015/05/smartly-logo-vertical_with_pedago-2x.png" width="100">
+  <img src=" https://blog.smart.ly/wp-content/uploads/2015/05/smartly-logo-vertical_with_pedago-2x.png" width="130">
   """
 
 +++
