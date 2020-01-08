@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xu, Hong
+name: Xu, Hong (徐 泓)
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate at ETH Zürich
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: ETH Zürich
-  url: ""
+- name: ETH Zürich, Switzerland
+  url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include renewable energy, computational imaging and big data analytics.
@@ -69,9 +69,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Grown up in the middle east of China in a small acqua town called Zōngyáng by the Yangtze River, I was a little boy who was luckily gifted with abundant of curiosities towards the grand world. After 4 years of bachelor studies at Jiaotong Univ. (BJTU) in Beijing, the capital, I started my "Journey to the West" at 20 years old in 2014. Arrived in Paris CDG and the SNCF brought me to a small City called Rennes, phonetically joked as "Rain", where I spent first year of my master studies. 
 
-Hoi Zäme! My name is Xu, Hong (in Chinese: 徐泓), currently I'm a Ph.D candidate at ETH Zürich in Switzerland and MBA candidate at Smartly Institute in Washington D.C.
-
-Grown up in the middle east of China in a small acqua town called Zōngyáng by the Yangtze River, I was a little boy who was luckily gifted with abundant of curiosities towards the grand world. After 4 years of bachelor studies at Jiaotong Univ. (BJTU) in Beijing, the capital, I started my "Journey to the West" at 20 years old in 2014. Arrived in Paris CDG and the SNCF brought me to a small City called Rennes, phonetically joked as "Rain", where I spent first year of my master studies. Thanks to the great EU mobility, I continued the second year of master at Univ. of Munich (LMU) & Tech. Univ. of Munich (TUM) and committed my master dissertation at TUM Physics department. Life was never lack of suprises, I got the chance interviewed by Professor from ETH and fortunately won the PhD position at Paul Scherrer Institute (PSI) for renewable energy research, where my three-year of future begins.
+Thanks to the great EU mobility, I continued the second year of master at Univ. of Munich (LMU) & Tech. Univ. of Munich (TUM) and committed my master dissertation at TUM Physics department. Life was never lack of suprises, I got the chance interviewed by Professor from ETH Zürich and fortunately won the PhD position at Paul Scherrer Institute (PSI) for renewable energy research. Enlighted by the industrial collaboration with Toyota during my Ph.D studies, I'm seeking futher career advancements by joining Smartly Institute for MBA-level professional education and networking.
 
 PEK -> CDG -> MUC -> ZRH ✈ ?
