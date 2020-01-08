@@ -14,7 +14,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: ETH Zürich, Switzerland
+- name:  ETH Zürich, Switzerland
   url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
