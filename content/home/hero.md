@@ -44,4 +44,4 @@ hero_media = "hong-1.jpeg"
 +++
 ## My name is **Xu, Hong** I'm a **Ph.D Researcher** specializing in **Renewable Energy** and **Computational Imaging**
 
-Hoi Zäme! currently I'm a Ph.D candidate at ETH Zürich in Switzerland and MBA candidate at Smartly Institute in Washington D.C.
+Hoi Zäme! Currently I'm a Ph.D candidate at ETH Zürich in Switzerland and MBA candidate at Smartly Institute in Washington D.C.
