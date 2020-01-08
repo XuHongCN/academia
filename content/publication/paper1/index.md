@@ -27,7 +27,7 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: High magnification white beam microscope capabilities at the TOMCAT beamline of the Swiss Light Source (SLS) at Paul Scherrer Institut were explored. The image quality is evaluated in terms of contrast-to-noise ratio and in-situ water detectability for three different beam configurations and two magnifications. High water detectability levels can be achieved with a voxel size of 0.4 µm at 0.25 s scan time.
+summary: High magnification white beam microscope capabilities were explored. High water detectability levels can be achieved with a voxel size of 0.4 µm at 0.25 s scan time.
 
 tags:
 - Source Themes
