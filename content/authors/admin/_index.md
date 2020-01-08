@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate    
 
 # Organizations/Affiliations
 organizations:
-- name:   ETH Zürich, Switzerland
+- name: &nbsp;&nbsp;ETH Zürich, Switzerland
   url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
@@ -71,6 +71,6 @@ user_groups:
 ---
 <p  align="justify">Grown up in the middle east of China in a small acqua town called Zōngyáng by the Yangtze River, I was a little boy who was luckily gifted with abundant of curiosities towards the grand world. After 4 years of bachelor studies at <a href="http://en.bjtu.edu.cn/" target="_blank">Jiaotong Univ.</a> (BJTU) in Beijing, I started my "Journey to the West" at the age of 20. Arrived in Paris CDG and the SNCF brought me to a small City called Rennes, phonetically joked as "Rain", where I spent first year of my master studies. </p> 
 
-<p  align="justify">Thanks to the great EU mobility, I continued the second year of master at Tech. Univ. of Munich</a> (TUM) and committed master dissertation at Physics department. Life was never lack of suprises, I got the chance interviewed by Professor from ETH and fortunately won the PhD position at <a href="https://www.psi.ch/en" target="_blank">PSI</a> for renewable energy research in 2016. Enlighted by the industrial collaboration with <a href="https://www.toyota-europe.com/" target="_blank">TOYOTA</a> during my Ph.D studies, I'm seeking futher career advancements by joining <a href="https://smart.ly/the-free-mba/curriculum" target="_blank">Smartly Institute</a> for MBA-level professional education and networking.</p> 
+<p  align="justify">Thanks to the great EU mobility, I continued the second year of master at Tech. Univ. of Munich</a> (TUM) and committed master dissertation at Physics department. Life was never lack of suprises, I got the chance interviewed by Professor from ETH and fortunately won the PhD position at <a href="https://www.psi.ch/en" target="_blank">PSI</a> for renewable energy research in 2016. Enlighted by the industrial collaboration with <a href="https://www.toyota-europe.com/" target="_blank">TOYOTA</a> during my Ph.D studies, I'm seeking futher career advancements by joining <a href="https://smart.ly/the-free-mba/curriculum" target="_blank">Smartly Institute</a> for MBA-level education and networking.</p> 
 
 PEK -> CDG -> MUC -> ZRH ✈ ?
