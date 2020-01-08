@@ -1,5 +1,5 @@
 ---
-title: "Exploring Sub-Second and Sub-Micron X-Ray Tomographic Imaging of Liquid Water in PEFC Gas Diffusion Layers"
+title: "Exploring Sub-second and Sub-micron X-ray CT Imaging of Liquid Water in PEFC GDLs"
 authors:
 - admin
 - Federica Marone
