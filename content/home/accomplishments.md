@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Ph.D. Candidate, Energy & CT Imaging"
   organization_url = ""
-  title = ":ch: ETH Zürich, Switzerland"
+  title = "🇨🇭 ETH Zürich, Switzerland"
   url = "https://ethz.ch/en.html"
   certificate_url = ""
   date_start = "2017-02-20"
