@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   date_start = "2017-02-20"
   date_end = "2020-11-30"
   description = """
-  * SNF (Swiss) & TOYOTA Funded; ECS Travel Grant (US Army Research)
-  * Courses: Renewable Energy (Teach. Assist.); Quantitative Big Imaging
+  * SNF (Swiss) & TOYOTA Funded; ECS Travel Grant (US Army Res)
+  * Courses: Renewable Energy (Teach. Assist.); Big Data Imaging
   * Supervising PSI Intern in CT Image Processing and AI Denoising
   * Medical Imaging (CT/MRI) Training at University Hospital Zurich
   * IBM Data Science Professional Certificate (2019)
