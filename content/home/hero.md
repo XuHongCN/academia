@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hong-1.jpeg"
+hero_media = "portfolio1.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
