@@ -27,11 +27,12 @@ date_format = "Jan 2006"
   date_start = "2017-02-20"
   date_end = "2020-11-30"
   description = """
-  * SNF (Swiss) & TOYOTA (Japan) Funded; ECS Travel Grant (by US Naval Research, 2019)
-  * S. Courses: Renewable Energy (Teach. Assist.); Big Data Imaging; Physical Electrocatalysis
-  * Supervising PSI Intern in CT Image Processing and AI Image Denoising (GPU-based, tensorflow)
-  * Med-imaging Training at Uni. Hospital Zurich (2017); X-ray Training at Swiss Light Source (2017)
-  * IBM Data Science Professional Certificate (2019); Novartis Data Science Hackathon (2019)
+  * SNF (Swiss) & TOYOTA (JP) Funded; ECS Travel Grant (US Army Res)
+  * S. Courses: Renewable Energy (Teach. Assist.); Big Data Imaging
+  * Supervising PSI Intern in CT Image Processing and AI Denoising
+  * Medical Imaging (CT/MRI) Training at University Hospital Zurich
+  * IBM Data Science Professional Certificate (2019)
+  * Intel Edge AI Scholarship Program (2019-20)
   """
 
 [[item]]
