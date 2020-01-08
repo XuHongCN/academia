@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   * Medical Imaging (CT/MRI) Training at University Hospital Zurich
   * IBM Data Science Professional Certificate (2019)
   * Intel Edge AI Scholarship Program (2019-20)
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ETH_Z%C3%BCrich_Logo_black.svg/2000px-ETH_Z%C3%BCrich_Logo_black.svg.png" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ETH_Z%C3%BCrich_Logo_black.svg/2000px-ETH_Z%C3%BCrich_Logo_black.svg.png" width="50">
   """
 
 [[item]]
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   * Lab Internship (1.0/1.0); Energy Seminar Presentation (1.0/1.0)
   * EU Erasmus Exchange in Physics at Uni. Rennes I, FR (GPA 15.6/20)
   * Neutron & X-ray Summer School at Uni. Montpellier; DPG Member
-  <img src="https://elpa.mpcdf.mpg.de/images/TUM-logo.png" height="50">
+  <img src="https://elpa.mpcdf.mpg.de/images/TUM-logo.png" width="50">
   """
 
 [[item]]
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   * 3 Granted Patents; 1 Published Papers; Bachelor Thesis (A+)
   * Finalist in TECO Green Tech Contest, Solar Cell Applications
   * Bronze in “Challenge Cup” Business Plan Competition
-  <img src="https://wiki.mbalib.com/w/images/thumb/7/7f/Beijing_Jiaotong_University_logo.png/390px-Beijing_Jiaotong_University_logo.png" height="50">
+  <img src="https://wiki.mbalib.com/w/images/thumb/7/7f/Beijing_Jiaotong_University_logo.png/390px-Beijing_Jiaotong_University_logo.png" width="50">
   """
  
  [[item]]
@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   * Leading Organizations, Marketing & Pricing, Corporate Finance
   * Supply Chain & Operations, Strategy & Innovation, Enterpreneurship
   * Collaborative case study groups, presentations, networking events
-  <img src=" https://blog.smart.ly/wp-content/uploads/2015/05/smartly-logo-vertical_with_pedago-2x.png" height="70">
+  <img src=" https://blog.smart.ly/wp-content/uploads/2015/05/smartly-logo-vertical_with_pedago-2x.png" width="50">
   """
 
 +++
