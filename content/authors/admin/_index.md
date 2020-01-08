@@ -69,8 +69,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Grown up in the middle east of China in a small acqua town called Zōngyáng by the Yangtze River, I was a little boy who was luckily gifted with abundant of curiosities towards the grand world. After 4 years of bachelor studies at Jiaotong Univ. (BJTU) in Beijing, the capital, I started my "Journey to the West" at 20 years old in 2014. Arrived in Paris CDG and the SNCF brought me to a small City called Rennes, phonetically joked as "Rain", where I spent first year of my master studies. 
+Grown up in the middle east of China in a small acqua town called Zōngyáng by the Yangtze River, I was a little boy who was luckily gifted with abundant of curiosities towards the grand world. After 4 years of bachelor studies at Jiaotong Univ. (BJTU) in Beijing, I started my "Journey to the West" at the age of 20. Arrived in Paris CDG and the SNCF brought me to a small City called Rennes, phonetically joked as "Rain", where I spent first year of my master studies. 
 
-Thanks to the great EU mobility, I continued the second year of master at Tech. Univ. of Munich (TUM) and committed my master dissertation at TUM Physics department. Life was never lack of suprises, I got the chance interviewed by Professor from ETH Zürich and fortunately won the Ph.D position at Paul Scherrer Institute (PSI) for renewable energy research. Enlighted by the industrial collaboration with Toyota during my Ph.D studies, I'm seeking futher career advancements by joining Smartly Institute for MBA-level professional education and networking.
+Thanks to the great EU mobility, I continued the second year of master at Tech. Univ. of Munich and committed my master dissertation at Physics department. Life was never lack of suprises, I got the chance interviewed by Professor from ETH Zürich and fortunately won the Ph.D position at Paul Scherrer Institute for renewable energy research. Enlighted by the industrial collaboration with Toyota during my Ph.D studies, I'm seeking futher career advancements by joining Smartly Institute for MBA-level professional education and networking.
 
 PEK -> CDG -> MUC -> ZRH ✈ ?
