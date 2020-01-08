@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hoi Zäme! My name is Xu, Hong (in Chinese: 徐泓), currently I'm a Ph.D candidate at ETH Zürich in Switzerland and MBA candidate at Smartly Institute in Washington D.C.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Grown up in the middle east of China in a small acqua town called Zōngyáng by the Yangtze River, I was a little boy who was luckily gifted with abundant of curiosities towards the grand world. After 4 years of bachelor studies at Jiaotong Univ. (BJTU) in Beijing, the capital, I started my "Journey to the West" at 20 years old in 2014. Arrived in Paris CDG and the SNCF brought me to a small City called Rennes, phonetically joked as "Rain", where I spent first year of my master studies. Thanks to the great EU mobility, I continued the second year of master at Univ. of Munich (LMU) & Tech. Univ. of Munich (TUM) and committed my master dissertation at TUM Physics department. Life was never lack of suprises, I got the chance interviewed by Professor from ETH and fortunately won the PhD position at Paul Scherrer Institute (PSI) for renewable energy research, where my three-year of future begins.
+
+PEK -> CDG -> MUC -> ZRH ✈ ?
