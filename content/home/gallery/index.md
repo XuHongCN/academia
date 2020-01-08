@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
 title = "Gallery"
-subtitle = "Photography is a philosophy for me in the name of the light. | https://xgraphy.github.io"
+subtitle = "Photography is a philosophy for me in the name of the light. "
 +++
 
 {{< gallery >}}
