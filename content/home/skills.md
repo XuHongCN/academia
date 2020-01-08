@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "images"
   icon_pack = "fas"
-  name = "Image Processing"
+  name = "Imaging & Processing"
   parcent = "80%"  
   
 [[feature]]
