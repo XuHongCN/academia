@@ -27,27 +27,35 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   
   [[content.filter_button]]
     name = "Energy"
-    tag = "energy"
+    tag = "Energy"
   
   [[content.filter_button]]
     name = "Imaging"
-    tag = "imaging"
+    tag = "Imaging"
     
   [[content.filter_button]]
     name = "X-ray"
-    tag = "x-ray"
+    tag = "X-ray"
 
   [[content.filter_button]]
-    name = "AI/ML/DL"
-    tag = "ai-ml-dl"
+    name = "AI"
+    tag = "AI"
+    
+   [[content.filter_button]]
+    name = "ML"
+    tag = "ML"
+    
+   [[content.filter_button]]
+    name = "DL"
+    tag = "DL"
     
   [[content.filter_button]]
-    name = "Data Science"
-    tag = "datascience"
+    name = "Data Sci"
+    tag = "Data Science"
   
   [[content.filter_button]]
-    name = "Business Analytics"
-    tag = "business"
+    name = "Business"
+    tag = "Business"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
