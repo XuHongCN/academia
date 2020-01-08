@@ -77,6 +77,7 @@ date_format = "Jan 2006"
   * Courses: Accounting, Markets & Economies, Data & Decisions
   * Leading Organizations, Marketing & Pricing, Corporate Finance
   * Supply Chain & Operations, Strategy & Innovation, Enterpreneurship
+  * Collaborative case study groups, presentations, networking events
   """
 
 +++
