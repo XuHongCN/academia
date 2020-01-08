@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ":ch: Ph.D. Candidate, Energy & CT Imaging"
+  organization = "Ph.D. Candidate, Energy & CT Imaging"
   organization_url = ""
-  title = "ETH Zürich, Switzerland"
+  title = ":ch: ETH Zürich, Switzerland"
   url = "https://ethz.ch/en.html"
   certificate_url = ""
   date_start = "2017-02-20"
@@ -36,9 +36,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = ":de: M.Sc, Geoscience/Sensor"
+  organization = "M.Sc, Geoscience/Sensor"
   organization_url = ""
-  title = "Technical University of Munich, Germany"
+  title = ":de: Technical University of Munich, Germany"
   url = "https://www.tum.de/en/"
   certificate_url = ""
   date_start = "2014-09-01"
@@ -52,9 +52,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = ":cn: B.Sc, Materials Science/Solar Cells"
+  organization = "B.Sc, Materials Science/Solar Cells"
   organization_url = ""
-  title = "Beijing Jiaotong University, China"
+  title = ":cn: Beijing Jiaotong University, China"
   url = "http://en.bjtu.edu.cn/"
   certificate_url = ""
   date_start = "2009-09-01"
@@ -67,9 +67,9 @@ date_format = "Jan 2006"
   """
  
  [[item]]
-  organization = ":us: MBA Candidate, Business Administration"
+  organization = "MBA Candidate, Business Administration"
   organization_url = ""
-  title = "Smartly Business School, Washington D.C."
+  title = ":us: Smartly Business School, Washington D.C."
   url = "https://smart.ly/the-free-mba"
   certificate_url = ""
   date_start = "2019-10-01"
