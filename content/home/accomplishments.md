@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
-subtitle = "Patents | Awards | Certificates | Professional Training"
+title = "Education"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,26 +19,52 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "EPF Lausanne, Switzerland"
-  organization_url = ""
-  title = "Applied Machine Learning Program"
+  organization = "ETH Zürich, Switzerland"
+  organization_url = "https://ethz.ch/en.html"
+  title = "Ph.D. Candidate, Renewable Energy & Computational Imaging"
   url = ""
   certificate_url = ""
-  date_start = "2020-01-24"
-  date_end = "2020-01-25"
-  description = "2 days training program focus on machine learning projects at EPFL"
+  date_start = "2017-02-20"
+  date_end = "2020-11-30"
+  description = """
+  * SNF (Swiss) & TOYOTA (Japan) Funded; ECS Travel Grant (by US Naval Research, 2019)
+  * S. Courses: Renewable Energy (Teach. Assist.); Big Data Imaging; Physical Electrocatalysis
+  * Supervising PSI Intern in CT Image Processing and AI Image Denoising (GPU-based, tensorflow)
+  * Med-imaging Training at Uni. Hospital Zurich (2017); X-ray Training at Swiss Light Source (2017)
+  * IBM Data Science Professional Certificate (2019); Novartis Data Science Hackathon (2019)
+  """
 
 [[item]]
-  organization = "Intel & Udacity"
-  organization_url = ""
-  title = "Intel Edge AI Scholarship Program"
+  organization = "Technical University of Munich, Germany"
+  organization_url = "https://www.tum.de/en/"
+  title = "M.Sc, Applied Physics/Magnetic Sensor"
   url = ""
   certificate_url = ""
-  date_start = "2020-12-25"
-  date_end = "2020-02-25"
-  description = "3 months training program focus on depolyment of AI application at Edge"
+  date_start = "2014-09-01"
+  date_end = "2016-10-01"
+  description = """
+  * GPA 1.43/1.0; EU Erasmus+ Scholarship
+  * S. Courses: Quantum Mechanics; Thermodynamics; Spectroscopy; Energy Materials; Crystals
+  * Master Thesis (1.3/1.0); Lab Internship (1.0/1.0); Energy Seminar Presentation (1.0/1.0)
+  * EU Erasmus Exchange in Physics at University of Rennes I, France (GPA 15.6/20)
+  * Neutron & X-ray School at Uni. Montpellier (2015); German Physical Society Membership (2016)
+  """
 
 [[item]]
+  organization = "Beijing Jiaotong University"
+  organization_url = "http://en.bjtu.edu.cn/"
+  title = "B.Sc, Materials Science/Solar Cells & Lithium Batteries"
+  url = ""
+  certificate_url = ""
+  date_start = "2009-09-01"
+  date_end = "2013-06-01"
+  description = """
+  * GPA 90.3/100; Innovation Scholarship
+  * 3 Granted Patents; 1 Published Papers; Bachelor Thesis (A+); 3 years Learning Scholarship
+  * Finalist in TECO Green Tech Contest; Bronze in “Challenge Cup” Business Plan Competition
+  """
+ 
+ [[item]]
   organization = "IBM"
   organization_url = ""
   title = "IBM Data Science Professional Certificate"
@@ -46,36 +72,6 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/RKL5DP32L697?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
   date_start = "2019-09-01"
   date_end = "2019-10-01"
-  description = ""
-  
-[[item]]
-  organization = "University of Bern, Switzerland"
-  organization_url = ""
-  title = "Machine Learning in Imaging Workshop"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-12-01"
-  date_end = "2019-12-01"
-  description = ""
-  
-  [[item]]
-  organization = "US Army & Naval Research Office"
-  organization_url = ""
-  title = "ECS Travel Grant"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-10-13"
-  date_end = "2019-10-17"
-  description = ""
-
-  [[item]]
-  organization = "Novartis Leadership Forum, Luzern, Switzerland."
-  organization_url = ""
-  title = "Novartis Pharma Data Science Hackathon"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-09-19"
-  date_end = "2019-09-19"
   description = ""
 
 +++
