@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   date_start = "2016-12-01"
   date_end = "2020-11-30"
   description = """
-  ![](http://tiger.web.psi.ch/PSI-Logo_narrow.jpg)
+  <img src="http://tiger.web.psi.ch/PSI-Logo_narrow.jpg" width="100">
+  ![](http://tiger.web.psi.ch/PSI-Logo_narrow.jpg){width=100px}
   Achievements include:
   * Fast CT setup development
   * Image reconstruction & processing
