@@ -15,26 +15,26 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
+  icon = "power-off"
   icon_pack = "fas"
   name = "Energy Research"
   parcent = "90%"
   
 [[feature]]
-  icon = "user-secret"
+  icon = "images"
   icon_pack = "fas"
   name = "Image Processing"
   parcent = "80%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "info-circle"
   icon_pack = "fas"
   name = "Data Science"
   parcent = "70%"
   
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
+  icon = "user-tie"
+  icon_pack = "fas"
   name = "Business Analytics"
   parcent = "65%"
 
