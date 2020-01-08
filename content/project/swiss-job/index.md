@@ -1,6 +1,6 @@
 ---
 title: Where to find a job in Switzerland?
-summary: Has been studying in Switzerland for 3 years, I'm very excited to apply my learned knowledge to find a good-matched job.
+summary: Have been studying in Switzerland for 3 years, I'm very excited to apply my learned knowledge to find a good-matched job.
 tags:
 - Data Science
 - Switzerland
