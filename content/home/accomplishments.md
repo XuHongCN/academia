@@ -19,10 +19,10 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "ETH Zürich, Switzerland"
-  organization_url = "https://ethz.ch/en.html"
-  title = "Ph.D. Candidate, Renewable Energy & Computational Imaging"
-  url = ""
+  organization = "Ph.D. Candidate, Energy & CT Imaging"
+  organization_url = ""
+  title = "ETH Zürich, Switzerland"
+  url = "https://ethz.ch/en.html"
   certificate_url = ""
   date_start = "2017-02-20"
   date_end = "2020-11-30"
@@ -35,10 +35,10 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Technical University of Munich, Germany"
-  organization_url = "https://www.tum.de/en/"
-  title = "M.Sc, Applied Physics/Magnetic Sensor"
-  url = ""
+  organization = "M.Sc, Geoscience/Sensor"
+  organization_url = ""
+  title = "Technical University of Munich, Germany"
+  url = "https://www.tum.de/en/"
   certificate_url = ""
   date_start = "2014-09-01"
   date_end = "2016-10-01"
@@ -51,10 +51,10 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "Beijing Jiaotong University"
-  organization_url = "http://en.bjtu.edu.cn/"
-  title = "B.Sc, Materials Science/Solar Cells & Lithium Batteries"
-  url = ""
+  organization = "B.Sc, Materials Science/Solar Cells"
+  organization_url = ""
+  title = "Beijing Jiaotong University, China"
+  url = "http://en.bjtu.edu.cn/"
   certificate_url = ""
   date_start = "2009-09-01"
   date_end = "2013-06-01"
@@ -65,13 +65,17 @@ date_format = "Jan 2006"
   """
  
  [[item]]
-  organization = "IBM"
+  organization = "MBA Candidate, Business Administration"
   organization_url = ""
-  title = "IBM Data Science Professional Certificate"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/RKL5DP32L697?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
-  date_start = "2019-09-01"
-  date_end = "2019-10-01"
-  description = ""
+  title = "Smartly Institute, Washington D.C."
+  url = "https://smart.ly/the-free-mba"
+  certificate_url = ""
+  date_start = "2019-10-01"
+  date_end = "2020-06-01"
+  description = """
+  * 7% admission rate, online program, MBA level curriculum
+  * Core Courses: Accounting, Markets & Economies, Data & Decisions, Leading Organizations
+  * Marketing & Pricing, Finance, Supply Chain & Operations, Strategy & Innovation, Enterpreneurship
+  """
 
 +++
