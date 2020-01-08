@@ -8,9 +8,10 @@ tags:
 date: "2019-09-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 
+external_link: https://xproject.gitbook.io/xproject/ai-machine-learning/where-to-find-a-job-in-switzerland
 
 image:
   caption: Swiss Regional Demographics
   focal_point: Smart
 ---
+
