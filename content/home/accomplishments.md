@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   date_start = "2017-02-20"
   date_end = "2020-11-30"
   description = """
-  * SNF (Swiss) & TOYOTA (JP) Funded; ECS Travel Grant (US Army Res)
-  * S. Courses: Renewable Energy (Teach. Assist.); Big Data Imaging
+  * SNF (Swiss) & TOYOTA (Japan) Funded; ECS Travel Grant (US Army Res)
+  * Courses: Renewable Energy (Teach. Assist.); Quantitative Big Data Imaging
   * Supervising PSI Intern in CT Image Processing and AI Denoising
   * Medical Imaging (CT/MRI) Training at University Hospital Zurich
   * IBM Data Science Professional Certificate (2019)
@@ -44,11 +44,11 @@ date_format = "Jan 2006"
   date_start = "2014-09-01"
   date_end = "2016-10-01"
   description = """
-  * GPA 1.43/1.0; EU Erasmus+ Scholarship
-  * S. Courses: Quantum Mechanics; Thermodynamics; Spectroscopy; Energy Materials; Crystals
-  * Master Thesis (1.3/1.0); Lab Internship (1.0/1.0); Energy Seminar Presentation (1.0/1.0)
-  * EU Erasmus Exchange in Physics at University of Rennes I, France (GPA 15.6/20)
-  * Neutron & X-ray School at Uni. Montpellier (2015); German Physical Society Membership (2016)
+  * GPA 1.43/1.0; Master Thesis (1.3/1.0); EU Erasmus+ Scholarship; 
+  * S. Courses: Quantum Mechanics; Thermodynamics; Energy Materials
+  * Lab Internship (1.0/1.0); Energy Seminar Presentation (1.0/1.0)
+  * EU Erasmus Exchange in Physics at Uni. of Rennes I, France (GPA 15.6/20)
+  * Neutron & X-ray School at Uni. Montpellier (2015); DPG Membership (2016)
   """
 
 [[item]]
@@ -60,9 +60,10 @@ date_format = "Jan 2006"
   date_start = "2009-09-01"
   date_end = "2013-06-01"
   description = """
-  * GPA 90.3/100; Innovation Scholarship
-  * 3 Granted Patents; 1 Published Papers; Bachelor Thesis (A+); 3 years Learning Scholarship
-  * Finalist in TECO Green Tech Contest; Bronze in “Challenge Cup” Business Plan Competition
+  * GPA 90.3/100; Innovation Scholarship; 3 years Learning Scholarship
+  * 3 Granted Patents; 1 Published Papers; Bachelor Thesis (A+)
+  * Finalist in TECO Green Tech Contest, Solar Cell Applications
+  * Bronze in “Challenge Cup” Business Plan Competition
   """
  
  [[item]]
