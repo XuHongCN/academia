@@ -50,8 +50,8 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     tag = "DL"
     
   [[content.filter_button]]
-    name = "Data Sci"
-    tag = "Data Science"
+    name = "Data"
+    tag = "Data"
   
   [[content.filter_button]]
     name = "Business"
