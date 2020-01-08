@@ -42,6 +42,6 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Xu, Hong** and I'm a **PhD Candidate** specializing in **Renewable Energy** and **Computational Imaging**
+## My name is **Xu, Hong** I'm a **Ph.D Researcher** specializing in **Renewable Energy** and **Computational Imaging**
 
-Hoi Zäme! My name is Xu, Hong (in Chinese: 徐泓), currently I'm a Ph.D candidate at ETH Zürich in Switzerland and MBA candidate at Smartly Institute in Washington D.C.
+Hoi Zäme! currently I'm a Ph.D candidate at ETH Zürich in Switzerland and MBA candidate at Smartly Institute in Washington D.C.
