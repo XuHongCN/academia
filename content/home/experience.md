@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Doctoral Researcher"
-  company = "Paul Scherrer Institute (PSI)"
+  company = "🇨🇭Paul Scherrer Institute (PSI)"
   company_url = "https://www.psi.ch/en/"
   location = "Switzerland"
   date_start = "2016-12-01"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Industrial Collaborator"
-  company = "Toyota Motor Europe"
+  company = "🇯🇵Toyota Motor Europe"
   company_url = "https://www.toyota-europe.com/"
   location = "Belgium"
   date_start = "2017-05-01"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Working Student"
-  company = "Infineon Technologies AG"
+  company = "🇩🇪Infineon Technologies AG"
   company_url = "https://www.infineon.com/"
   location = "Germany"
   date_start = "2015-12-01"
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Mechanical Intern"
-  company = "European XFEL GmbH"
+  company = "🇪🇺European XFEL GmbH"
   company_url = "https://www.xfel.eu/facility/instruments/mid/index_eng.html"
   location = "Germany"
   date_start = "2015-05-01"
