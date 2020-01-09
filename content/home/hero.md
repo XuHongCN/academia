@@ -42,6 +42,7 @@ hero_media = "portfolio1-crop.jpg"
   label = "Contact me"
 
 +++
-## My name is **Xu, Hong** I'm a **Ph.D Researcher** specializing in **Renewable Energy** and **Computational Imaging**
+## Who am I? 
+## Xu, Hong, a **Ph.D Researcher** specializing in **Renewable Energy** and **Computational Imaging**
 
 Hoi Zäme! Currently I'm a Ph.D candidate at ETH Zürich in Switzerland and MBA candidate at Smartly Institute in Washington D.C.
