@@ -38,8 +38,8 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     tag = "Business"
 
   [[content.filter_button]]
-    name = "DS/AI"
-    tag = "DS/AI"
+    name = "Data Science"
+    tag = "Data Science"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
