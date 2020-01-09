@@ -35,7 +35,7 @@ hero_media = "portfolio1-crop.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "https://xgraphy.github.io/"
-  label = "𝔛-𝔤𝔯𝔞𝔭𝔥𝔶"
+  label = "X-graphy"
   
 [btn_alt]
   url = "#contact"
