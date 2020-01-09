@@ -11,5 +11,5 @@ title = "Biography"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
-avatar_image="hong-2-fade.jpg"
+avatar_image="hong-2-mild.jpg"
 +++
