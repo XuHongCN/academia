@@ -9,7 +9,7 @@ tags:
 date: "2013-05-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/XuHongCN/docs/raw/master/thesis/Bachelor_Thesis_BJTU_Xu_Hong.pdf
+external_link: files/Bachelor_Thesis_BJTU_Xu_Hong.pdf
 
 image:
   caption: "Schematic of DS Solar Cell "
