@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   * Lab Internship (1.0/1.0); Energy Seminar Presentation (1.0/1.0)
   * EU Erasmus Exchange in Physics at Uni. Rennes I, FR (GPA 15.6/20)
   * Neutron & X-ray Summer School at Uni. Montpellier; DPG Member
- <img src="https://github.com/XuHongCN/academia/raw/master/static/img/tum.png" width="80px">
+ <img src="https://github.com/XuHongCN/academia/raw/master/static/img/tum.png" style="float:right" width="70px">
   """
 
 [[item]]
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   * 3 Granted Patents; 1 Published Papers; Bachelor Thesis (A+)
   * Finalist in TECO Green Tech Contest, Solar Cell Applications
   * Bronze in “Challenge Cup” Business Plan Competition
- <img src="https://github.com/XuHongCN/academia/raw/master/static/img/bjtu.png" width="100px">
+ <img src="https://github.com/XuHongCN/academia/raw/master/static/img/bjtu.png" style="float:right" width="100px">
   """
  
  [[item]]
@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   * Leading Organizations, Marketing & Pricing, Corporate Finance
   * Supply Chain&Operations, Strategy&Innovation, Enterpreneurship
   * Collaborative case study groups, presentations, networking
-  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/smartly.png" width="100px">
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/smartly.png" style="float:right" width="100px">
   """
 
 +++
