@@ -32,7 +32,7 @@ tags:
 - Source Themes
 featured: true
 
-links: http://ecst.ecsdl.org/content/80/8/395.short
+# links: http://ecst.ecsdl.org/content/80/8/395.short
 # - name: ""
 #   url: ""
 # url_pdf: 
