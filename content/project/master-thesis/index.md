@@ -11,7 +11,7 @@ tags:
 date: "2016-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/XuHongCN/docs/raw/master/thesis/Master_Thesis_LMU_TUM_Xu_Hong.pdf
+external_link: files/Master_Thesis_LMU_TUM_Xu_Hong.pdf
 
 image:
   caption: "SAXS Humidity Chamber Design"
