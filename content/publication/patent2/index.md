@@ -1,5 +1,5 @@
 ---
-title: "Exploring Sub-second and Sub-micron X-ray CT Imaging of Liquid Water in PEFC GDLs"
+title: "Gas-liquid interface jigging magnetic separation controllable annular device capable of continuously operating"
 authors:
 - Prof. Ming Fu
 - Prof. Hui Zhang
