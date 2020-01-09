@@ -14,6 +14,8 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
+<a href="https://info.flagcounter.com/D897"><img src="https://s01.flagcounter.com/count/D897/bg_FFFFFF/txt_404040/border_FFFFFF/columns_8/maxflags_16/viewers_3/labels_0/pageviews_1/flags_0/percent_0/" border="0" align="middle"></a>
+
 [[feature]]
   icon = "power-off"
   icon_pack = "fas"
