@@ -1,5 +1,5 @@
 ---
-title: "Market Archetypes Reserach of X Drugs in Spain Pharmaceutical Markets"
+title: "Market Archetypes Reserach of X Drugs in Spain Pharmaceutical Industry"
 summary: A brief visualization of geo-location based market archetypes for certain drugs in spain
 tags:
 - Pharma
