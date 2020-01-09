@@ -26,10 +26,11 @@ date_format = "Jan 2006"
   date_end = "2020-11-30"
   description = """
   Achievements include:
-  -Fast CT setup development
-  -Image reconstruction & processing
-  -AI image denoising
-  <img src="http://tiger.web.psi.ch/PSI-Logo_narrow.jpg" width="80">
+  - Fast CT setup development
+  - Image reconstruction & processing
+  - AI image denoising
+   ---  
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/psi.png" style="float:right" width="100px">
   """
 
 [[experience]]
@@ -40,8 +41,10 @@ date_format = "Jan 2006"
   date_start = "2017-05-01"
   date_end = "2019-02-01"
   description = """
-  Facilitated collaboration with industrial giant in fuel cell vehicle field and coordinated Toyota funded project. Published 2 co-papers.
-  <img src="https://tammauto.com/wp-content/uploads/2017/11/toyota.png" width="50">
+  Facilitated collaboration with industrial giant in fuel cell vehicle field and coordinated Toyota funded project. Published 2 co-papers. 
+
+  ---  
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/toyota.png" style="float:right" width="100px">
   """
 
 [[experience]]
@@ -53,7 +56,9 @@ date_format = "Jan 2006"
   date_end = "2016-06-01"
   description = """
   Involved in quality management with specialized in failure analysis of thermal and electrical stressed Infineon developed semiconductor chips.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Infineon-Logo.svg/2000px-Infineon-Logo.svg.png" width="60">
+
+  ---  
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/infineon.png" style="float:right" width="100px">
   """
 
 [[experience]]
@@ -65,7 +70,8 @@ date_format = "Jan 2006"
   date_end = "2015-08-01"
   description = """
   Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European XFEL with technical requirements consideration under ultra-high vacuum.
-  <img src="http://www.eso.org/public/archives/logos/screen/xfel.jpg" width="40">
+  ---  
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/xfel.png" style="float:right" width="100px">
   """
   
   [[experience]]
@@ -77,7 +83,8 @@ date_format = "Jan 2006"
   date_end = "2015-09-01"
   description = """
   Trained on the cyanobacteria matlab modelling system developed by LEESU and aimed to apply it into controlling system of lakes and rivers in China.
-  <img src="http://www.enpc.fr/sites/enpc.fr/files/ckfinder/ckfinder/archives/l-ecole/7-ecole_ponts_rvb_transparent.png" width="50">
+  ---  
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/enpc.png" style="float:right" width="100px">
   """
   
   [[experience]]
@@ -89,7 +96,8 @@ date_format = "Jan 2006"
   date_end = "2013-07-01"
   description = """
   Assisted in preparation of business emails, letters and presentation slides for two energy companies in China.
-  <img src="http://www.taishancapital.com/images/taishan_logo2.jpg" width="50">
+  ---  
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/taishan.png" style="float:right" width="100px">
   """
   
 +++
