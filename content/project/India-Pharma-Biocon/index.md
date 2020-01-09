@@ -9,7 +9,7 @@ tags:
 date: "2019-11-24T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/XuHongCN/docs/raw/master/Markets_Economies_Case_Study_Biocon_Hong_Xu.pdf
+external_link: files/Markets_Economies_Case_Study_Biocon_Hong_Xu.pdf
 
 image:
   caption: "Special Reports - Aalok Sathe"
