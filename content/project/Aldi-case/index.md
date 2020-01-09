@@ -9,7 +9,7 @@ tags:
 date: "2017-10-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "static/files/Aldi_Case_Study.pdf"
+external_link: "files/Aldi_Case_Study.pdf"
 
 image:
   caption: "Design of Split and Delay Line "
