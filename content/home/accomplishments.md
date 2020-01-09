@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   * Medical Imaging (CT/MRI) Training at University Hospital Zurich
   * IBM Data Science Professional Certificate (2019)
   * Intel Edge AI Scholarship Program (2019-20)
-  ![](/static/img/eth.png)
+  ![](https://github.com/XuHongCN/academia/raw/master/static/img/eth.png)
   """
 
 [[item]]
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   * Lab Internship (1.0/1.0); Energy Seminar Presentation (1.0/1.0)
   * EU Erasmus Exchange in Physics at Uni. Rennes I, FR (GPA 15.6/20)
   * Neutron & X-ray Summer School at Uni. Montpellier; DPG Member
-    ![](/static/img/tum.png)
+    ![](https://github.com/XuHongCN/academia/raw/master/static/img/tum.png)
   """
 
 [[item]]
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   * 3 Granted Patents; 1 Published Papers; Bachelor Thesis (A+)
   * Finalist in TECO Green Tech Contest, Solar Cell Applications
   * Bronze in “Challenge Cup” Business Plan Competition
-  ![](/static/img/bjtu.png)
+  ![](https://github.com/XuHongCN/academia/raw/master/static/img/bjtu.png)
   """
  
  [[item]]
@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   * Leading Organizations, Marketing & Pricing, Corporate Finance
   * Supply Chain&Operations, Strategy&Innovation, Enterpreneurship
   * Collaborative case study groups, presentations, networking
-   ![](/static/img/smartly.png)
+   ![](https://github.com/XuHongCN/academia/raw/master/static/img/smartly.png)
   """
 
 +++
