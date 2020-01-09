@@ -9,7 +9,7 @@ tags:
 date: "2017-10-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/XuHongCN/docs/raw/master/cases/Aldi_Case_Study.pdf
+external_link:
 
 image:
   caption: "Design of Split and Delay Line "
