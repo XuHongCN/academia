@@ -10,7 +10,7 @@ tags:
 date: "2012-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/XuHongCN/docs/raw/master/reports/Improved_Dye_sensitized_solar_cells_Based_on_the_PC_Structure_of_Biomimetic_Butterfly_Wings.pdf
+external_link: files/Improved_Dye_sensitized_solar_cells_Based_on_the_PC_Structure_of_Biomimetic_Butterfly_Wings.pdf
 
 image:
   caption: "Fabricated DS Solar Cell "
