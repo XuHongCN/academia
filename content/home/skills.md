@@ -39,3 +39,5 @@ subtitle = ""
   parcent = "65%"
 
 +++
+
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
