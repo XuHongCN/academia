@@ -34,28 +34,12 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
     tag = "Imaging"
     
   [[content.filter_button]]
-    name = "X-ray"
-    tag = "X-ray"
-
-  [[content.filter_button]]
-    name = "AI"
-    tag = "AI"
-    
-   [[content.filter_button]]
-    name = "ML"
-    tag = "ML"
-    
-   [[content.filter_button]]
-    name = "DL"
-    tag = "DL"
-    
-  [[content.filter_button]]
-    name = "Data"
-    tag = "Data"
-  
-  [[content.filter_button]]
     name = "Business"
     tag = "Business"
+
+  [[content.filter_button]]
+    name = "DS/AI"
+    tag = "DS/AI"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
