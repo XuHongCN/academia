@@ -1,3 +1,7 @@
+<!---
+your comment goes here
+and here
+
 +++
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -18,7 +22,7 @@ autolink = true
 email_form = 2
 +++
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-0ee60cef-b682-45d8-832c-5c0864973d0e"></div>
+-->
+
 
 
