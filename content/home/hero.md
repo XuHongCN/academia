@@ -46,3 +46,6 @@ hero_media = "portfolio1-crop.jpg"
 ## **Ph.D Researcher** specializing in **Renewable Energy** and **Computational Imaging**
 
 Hoi Zäme! Currently I'm a Ph.D candidate at ETH Zürich in Switzerland and MBA candidate at Smartly Institute in Washington D.C.
+
+<a href="//24timezones.com/world_directory/time_in_zurich.php" style="text-decoration: none" class="clock24" id="tz24-1578605074-c1268-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="local time in Zurich" target="_blank" rel="nofollow">Zürich Time</a>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
