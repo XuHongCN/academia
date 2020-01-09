@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   - Image reconstruction & processing
   - AI image denoising
    ---  
-  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/psi.png" style="float:right" width="100px">
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/psi.png" style="float:right" width="80px">
   """
 
 [[experience]]
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   Facilitated collaboration with industrial giant in fuel cell vehicle field and coordinated Toyota funded project. Published 2 co-papers. 
 
   ---  
-  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/toyota.png" style="float:right" width="100px">
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/toyota.png" style="float:right" width="70px">
   """
 
 [[experience]]
@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   Involved in quality management with specialized in failure analysis of thermal and electrical stressed Infineon developed semiconductor chips.
 
   ---  
-  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/infineon.png" style="float:right" width="100px">
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/infineon.png" style="float:right" width="80px">
   """
 
 [[experience]]
@@ -70,8 +70,9 @@ date_format = "Jan 2006"
   date_end = "2015-08-01"
   description = """
   Designed mechanical configuration of the test-stand for the split and delay line (SDL) of European XFEL with technical requirements consideration under ultra-high vacuum.
+  
   ---  
-  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/xfel.png" style="float:right" width="100px">
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/xfel.png" style="float:right" width="80px">
   """
   
   [[experience]]
@@ -83,8 +84,9 @@ date_format = "Jan 2006"
   date_end = "2015-09-01"
   description = """
   Trained on the cyanobacteria matlab modelling system developed by LEESU and aimed to apply it into controlling system of lakes and rivers in China.
+  
   ---  
-  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/enpc.png" style="float:right" width="100px">
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/enpc.png" style="float:right" width="80px">
   """
   
   [[experience]]
@@ -96,8 +98,9 @@ date_format = "Jan 2006"
   date_end = "2013-07-01"
   description = """
   Assisted in preparation of business emails, letters and presentation slides for two energy companies in China.
+  
   ---  
-  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/taishan.png" style="float:right" width="100px">
+  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/taishan.png" style="float:right" width="80px">
   """
   
 +++
