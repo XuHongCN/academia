@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   * Lab Internship (1.0/1.0); Energy Seminar Presentation (1.0/1.0)
   * EU Erasmus Exchange in Physics at Uni. Rennes I, FR (GPA 15.6/20)
   * Neutron & X-ray Summer School at Uni. Montpellier; DPG Member
- <img src="https://github.com/XuHongCN/academia/raw/master/static/img/tum.png" width="100px">
+ <img src="https://github.com/XuHongCN/academia/raw/master/static/img/tum.png" width="80px">
   """
 
 [[item]]
