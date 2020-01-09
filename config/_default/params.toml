@@ -52,8 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "hong.xu@live.cn"
 phone = "+41 (0)7 64 64 44 26"
-address = "Forschungsstrasse 111, Villigen PSI<br>
-               CH-5232, Switzerland"
+address = "Forschungsstrasse 111, OVGA/005, Villigen PSI, CH-5232, Switzerland"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday to Friday<br>
