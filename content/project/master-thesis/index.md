@@ -4,8 +4,8 @@ summary: Nanostructured polymer-metal oxide composites are of great importance d
 tags:
 - Polymer
 - Sensor
-- Energy
 - Technical
+- Imaging
 - Thesis
 - X-ray
 date: "2016-10-01T00:00:00Z"
