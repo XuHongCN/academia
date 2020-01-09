@@ -1,9 +1,9 @@
 ---
-title: Towards the limits of fast operando XTM for PEFCs
+title: Towards the Limits of Fast operando CT Imaging for PEFCs
 event: Electrochemical Society Annual Meeting
 event_url:
 location: Atlanta, USA
-summary: I was excited to give a talk on the topic of subsecond operando XTM for PEFCs at the ECS Annual Meeting in Atlanta, USA.
+summary: I was excited to give a talk on the topic of 0.1s/10Hz operando XTM for PEFCs at the ECS Annual Meeting in Atlanta, USA, thanks to the ECS travel grant awarded by the US Army Research Office and Naval Research Office.
 abstract: ""
 
 # Talk start and end times.
