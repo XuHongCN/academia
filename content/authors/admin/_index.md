@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xu, Hong (徐 泓)
+name: Xu, Hong
 
 # Username (this should match the folder name)
 authors:
