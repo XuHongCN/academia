@@ -1,6 +1,6 @@
 ---
-title: "Design and Construction of the Test-Stand for Split and Delay Line at European XFEL"
-summary: Mechanical design of the Split and Delay Line in Materials Imaging & Dynamics group at European XFEL
+title: "欧盟自由电子激光器的分裂和延迟线测试台的设计与建造"
+summary: 欧盟XFEL的“材料成像与动力学”小组中的分割线和延迟线的机械设计
 tags:
 - Mechanical
 - Energy
