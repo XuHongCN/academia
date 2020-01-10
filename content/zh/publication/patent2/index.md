@@ -1,10 +1,10 @@
 ---
-title: "Gas-liquid interface jigging magnetic separation controllable annular device capable of continuously operating"
+title: "可连续运行的气液界面跳汰磁选可控环形装置 [P]"
 authors:
-- Prof. Ming Fu
-- Prof. Hui Zhang
-- Hong Xu
-- Prof. Luting Yan
+- 富鸣教授
+- 张辉教授
+- 徐泓[BJTU]
+- 颜鲁婷教授
 date: "2013-07-31T00:00:00Z"
 doi: "https://patents.google.com/patent/CN102441490A/en"
 
