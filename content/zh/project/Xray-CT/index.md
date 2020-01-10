@@ -1,6 +1,6 @@
 ---
-title: X-ray CT Imaging
-summary: X-ray computed tomography has been widely employed as powerful non-destructive imaging technique for medical investigation
+title: X射线计算机断层扫描成像的应用
+summary: X射线计算机断层扫描已被广泛用作医学研究的强大无损成像技术
 tags:
 - Imaging
 - X-ray
