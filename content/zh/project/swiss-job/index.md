@@ -1,6 +1,6 @@
 ---
-title: Where to find a job in Switzerland?
-summary: Have been studying in Switzerland for 3 years, I'm very excited to apply my learned knowledge to find a good-matched job.
+title: 留学生：在瑞士哪里可以找到工作？
+summary: 在瑞士学习了3年，我很高兴运用自己学到的知识来找到一份不错的工作。
 tags:
 - Data Science
 - Switzerland
