@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence
+title: 人工智能与机器学习及深度学习
 summary: Artificial Intelligence -> Machine Learning -> Deep Learning
 tags:
 - ai-ml-dl
