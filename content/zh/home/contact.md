@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact Me!"
-subtitle = "hong [dot] xu at live [dot] cn"
+title = "与我联系!"
+subtitle = "邮箱: hong [dot] xu at live [dot] cn"
 
 # Automatically link email and phone?
 autolink = true
@@ -32,7 +32,7 @@ email_form = 0
 
 ---
 
-<a class="weatherwidget-io" href="https://forecast7.com/zh/47d388d54/zurich/" data-label_1="苏黎世" data-label_2="当前天气" data-font="微软雅黑 (Microsoft Yahei)" data-mode="Current" data-theme="original" data-basecolor="" data-accent="" >苏黎世 当前天气</a>
+<a class="weatherwidget-io" href="https://forecast7.com/zh/47d388d54/zurich/" data-label_1="苏黎世" data-label_2="当前天气" data-font="微软雅黑 (Microsoft Yahei)" data-mode="Current" data-theme="pure" data-basecolor="" data-accent="" >苏黎世 当前天气</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
 </script>
