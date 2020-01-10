@@ -30,7 +30,7 @@ summary:
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links: http://ecst.ecsdl.org/content/80/8/395.short
 # - name: ""
