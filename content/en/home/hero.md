@@ -39,7 +39,7 @@ hero_media = "portfolio1-crop.jpg"
   
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "Contact"
 
 +++
 ## Who am I? 
