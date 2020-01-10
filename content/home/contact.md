@@ -31,3 +31,18 @@ email_form = 0
 
 <div class="cleanslate w24tz-current-time w24tz-middle" style="display: inline-block !important; visibility: hidden !important; min-width:300px !important; min-height:145px !important;"><p><a href="//24timezones.com/zh_shi/beijing_shi_zhong.php" style="text-decoration: none" class="clock24" id="tz24-1578619433-c133-eyJob3VydHlwZSI6IjEyIiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIxIiwiY29udGFpbmVyX2lkIjoiY2xvY2tfYmxvY2tfY2I1ZTE3ZDIyOWE3ZmUyIiwidHlwZSI6ImRiIiwibGFuZyI6InpoIn0=" title="時間 北京" target="_blank" rel="nofollow">北京</a></p><div id="clock_block_cb5e17d229a7fe2"></div></div>
 <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
+
+---
+
+<ul>
+    <li><div class="cleanslate w24tz-current-time w24tz-middle" style="display: inline-block !important; visibility: hidden !important; min-width:300px !important; min-height:145px !important;"><p><a href="//24timezones.com/world_directory/time_in_new_york.php" style="text-decoration: none" class="clock24" id="tz24-1578619353-c1179-eyJob3VydHlwZSI6IjEyIiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIxIiwiY29udGFpbmVyX2lkIjoiY2xvY2tfYmxvY2tfY2I1ZTE3ZDFkOTU4OGZhIiwidHlwZSI6ImRiIiwibGFuZyI6ImVuIn0=" title="New York actual time" target="_blank" rel="nofollow">New York</a></p><div id="clock_block_cb5e17d1d9588fa"></div></div>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script></li>
+    <li><div class="cleanslate w24tz-current-time w24tz-middle" style="display: inline-block !important; visibility: hidden !important; min-width:300px !important; min-height:145px !important;"><p><a href="//24timezones.com/world_directory/time_in_london.php" style="text-decoration: none" class="clock24" id="tz24-1578619399-c1136-eyJob3VydHlwZSI6IjEyIiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIxIiwiY29udGFpbmVyX2lkIjoiY2xvY2tfYmxvY2tfY2I1ZTE3ZDIwN2E4ZjA4IiwidHlwZSI6ImRiIiwibGFuZyI6ImVuIn0=" title="London timezone" target="_blank" rel="nofollow">London</a></p><div id="clock_block_cb5e17d207a8f08"></div></div>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script></li>
+    <li><div class="cleanslate w24tz-current-time w24tz-middle" style="display: inline-block !important; visibility: hidden !important; min-width:300px !important; min-height:145px !important;"><p><a href="//24timezones.com/Zurich/zeit" style="text-decoration: none" class="clock24" id="tz24-1578619241-c1268-eyJob3VydHlwZSI6IjEyIiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIxIiwiY29udGFpbmVyX2lkIjoiY2xvY2tfYmxvY2tfY2I1ZTE3ZDE2OWE5YWU1IiwidHlwZSI6ImRiIiwibGFuZyI6ImRlIn0=" title="Zürich Uhrzeit" target="_blank" rel="nofollow">Zürich</a></p><div id="clock_block_cb5e17d169a9ae5"></div></div>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script></li>
+    <li><div class="cleanslate w24tz-current-time w24tz-middle" style="display: inline-block !important; visibility: hidden !important; min-width:300px !important; min-height:145px !important;"><p><a href="//24timezones.com/zh_shi/beijing_shi_zhong.php" style="text-decoration: none" class="clock24" id="tz24-1578619433-c133-eyJob3VydHlwZSI6IjEyIiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIxIiwiY29udGFpbmVyX2lkIjoiY2xvY2tfYmxvY2tfY2I1ZTE3ZDIyOWE3ZmUyIiwidHlwZSI6ImRiIiwibGFuZyI6InpoIn0=" title="時間 北京" target="_blank" rel="nofollow">北京</a></p><div id="clock_block_cb5e17d229a7fe2"></div></div>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script></li>
+    <li><img src="5.jpg"></li>
+    <li><img src="6.jpg"></li>
+</ul>
