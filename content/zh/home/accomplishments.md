@@ -19,20 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Ph.D. Candidate, Energy & CT Imaging"
+  organization = "博士生, 能源与计算机成像"
   organization_url = ""
-  title = "🇨🇭 ETH Zürich, Switzerland"
+  title = "🇨🇭 瑞士 · 苏黎世联邦理工 (ETH)"
   url = "https://ethz.ch/en.html"
   certificate_url = ""
   date_start = "2017-02-20"
   date_end = "2020-11-30"
   description = """
-  * SNF (Swiss) & TOYOTA Funded; ECS Travel Grant (US Army Res)
-  * Courses: Renewable Energy (Teach. Assist.); Big Data Imaging
-  * Supervising PSI Intern in CT Image Processing and AI Denoising
-  * Medical Imaging (CT/MRI) Training at University Hospital Zurich
-  * IBM Data Science Professional Certificate (2019)
-  * Intel Edge AI Scholarship Program (2019-20)
+  * SNF(瑞士)和丰田全额资助; 美国ECS旅行奖学金(军方研究资助)
+  * 课程：可再生能源技术(助教); 大数据成像; 战略及创新管理
+  * 指导PSI实习生进行CT图像处理和AI去噪
+  * 在苏黎世大学医院接受医学成像(CT/MRI)培训
+  * IBM数据科学专业证书 (2019）
+  * 英特尔Edge AI奖学金计划 (2019-20）
   ---  
  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/eth.png" style="float:right" width="100px">
   """
