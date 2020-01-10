@@ -1,6 +1,6 @@
 ---
 title: "德国零售业巨头Aldi应该如何加强其在美国市场的地位？"
-summary: A case study of expansion strategy of German brand Aldi in US with its unique business model.
+summary: 以德国零售业品牌Aldi在美国的扩张战略为例进行的研究
 tags:
 - Business
 - Germany
