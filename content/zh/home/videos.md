@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65.5  # Order that this section will appear.
 
-title = "一路向北!"
-subtitle = "Là Où Je T'Emmènerai, by Florent Pagny"
+title = "视频剪辑"
+subtitle = "一路向北!  Là Où Je T'Emmènerai 🎵"
 
 # Showcase personal skills or business features.
 # 
