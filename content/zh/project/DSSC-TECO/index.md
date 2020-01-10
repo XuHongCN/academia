@@ -1,6 +1,6 @@
 ---
-title: "Improved DSSC Based on the PC Structure of Biomimetic Butterfly Wings"
-summary: Inspired from the natural photonic crystal structure of butterfly wings, the novel materials has been applied to DSSC for efficiency improvements
+title: "基于仿生蝶翅光子晶体结构改进的染料敏化太阳能电池"
+summary: 受到蝴蝶翅膀自然光子晶体结构的启发，这种新型材料已应用于染料敏化太阳能电池以提高效率
 tags:
 - Solar Cell
 - Energy
