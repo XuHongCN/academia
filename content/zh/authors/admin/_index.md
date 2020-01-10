@@ -18,7 +18,7 @@ organizations:
   url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include renewable energy, computational imaging and big data analytics.
+bio: 博士生, 瑞士苏黎世联邦理工(ETH), 致力于可再生能源和计算机成像研究.
 
 interests:
 - Renewable Energy Technologies
