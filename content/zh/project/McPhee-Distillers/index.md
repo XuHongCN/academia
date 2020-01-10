@@ -1,6 +1,6 @@
 ---
-title: "McPhee Distillers: Financial Health Evaluation for a Whisky Distillery Business"
-summary: This report provides an analysis and evaluation of financial health for a whisky distillery business named McPhee Distillers in Vancouver, Canada.
+title: "McPhee Distillers: 威士忌酒厂业务的财务健康评估"
+summary: 该报告对加拿大温哥华一家名为McPhee Distillers的威士忌酿酒厂的财务状况进行了分析和评估。
 tags:
 - Business
 - Financial
