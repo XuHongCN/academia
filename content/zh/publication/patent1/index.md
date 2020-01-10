@@ -1,10 +1,10 @@
 ---
-title: "Annular gas-liquid interface jigging magnetic separation device"
+title: "环形气液界面跳汰磁选装置 [P]"
 authors:
-- Prof. Hui Zhang
-- Hong Xu
-- Prof. Luting Yan
-- Prof. Ming Fu
+- 张辉教授
+- 徐泓[BJTU]
+- 颜鲁婷教授
+- 富鸣教授
 date: "2013-10-30T00:00:00Z"
 doi: "https://patents.google.com/patent/CN102441489B/en"
 
