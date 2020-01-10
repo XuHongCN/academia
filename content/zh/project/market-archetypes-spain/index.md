@@ -1,6 +1,6 @@
 ---
-title: "Market Archetypes Reserach of X Drugs in Spain Pharmaceutical Industry"
-summary: A brief visualization of geo-location based market archetypes for certain drugs in spain
+title: "西班牙制药行业X药物的市场原型研究"
+summary: 基于地理定位的西班牙某些药品的市场原型的简要可视化
 tags:
 - Pharma
 - Data Science
