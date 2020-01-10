@@ -35,11 +35,11 @@ hero_media = "portfolio1-crop.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "https://xgraphy.github.io/"
-  label = "X-graphy"
+  label = "摄影作品"
   
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "与我联系"
 
 +++
 ## 我是谁？
