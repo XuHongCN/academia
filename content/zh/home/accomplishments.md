@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Education"
-subtitle = "Energy & Imaging research specialist equipped with business analytics skills"
+title = "教育背景"
+subtitle = "能源与影像研究员 & 数据科学/商业分析"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -38,9 +38,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "M.Sc, Geoscience/Sensor"
+  organization = "硕士, 物理与地质科学/传感器研究"
   organization_url = ""
-  title = ":de: Technical University of Munich, Germany"
+  title = ":de: 德国 · 慕尼黑工业大学 (TUM)"
   url = "https://www.tum.de/en/"
   certificate_url = ""
   date_start = "2014-09-01"
