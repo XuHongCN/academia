@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "教育背景"
-subtitle = "能源与影像研究员 & 数据科学/商业分析"
+subtitle = "能源与计算机成像研究 & 数据科学/商业分析"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
