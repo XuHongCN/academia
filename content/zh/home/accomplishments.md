@@ -33,7 +33,6 @@ date_format = "Jan 2006"
   * 在苏黎世大学医院接受医学成像(CT/MRI)培训
   * IBM数据科学专业证书 (2019）
   * 英特尔Edge AI奖学金计划 (2019-20)
-  """
   ---  
  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/eth.png" style="float:right" width="100px">
   """
