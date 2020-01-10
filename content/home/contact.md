@@ -43,6 +43,4 @@ email_form = 0
 <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></li>
     <li><div class="cleanslate w24tz-current-time w24tz-middle" style="display: inline-block !important; visibility: hidden !important; min-width:300px !important; min-height:145px !important;"><p><a href="//24timezones.com/zh_shi/beijing_shi_zhong.php" style="text-decoration: none" class="clock24" id="tz24-1578619433-c133-eyJob3VydHlwZSI6IjEyIiwic2hvd2RhdGUiOiIxIiwic2hvd3NlY29uZHMiOiIxIiwiY29udGFpbmVyX2lkIjoiY2xvY2tfYmxvY2tfY2I1ZTE3ZDIyOWE3ZmUyIiwidHlwZSI6ImRiIiwibGFuZyI6InpoIn0=" title="時間 北京" target="_blank" rel="nofollow">北京</a></p><div id="clock_block_cb5e17d229a7fe2"></div></div>
 <script type="text/javascript" src="//w.24timezones.com/l.js" async></script></li>
-    <li><img src="5.jpg"></li>
-    <li><img src="6.jpg"></li>
 </ul>
