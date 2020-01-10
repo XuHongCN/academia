@@ -25,10 +25,7 @@ date_format = "Jan 2006"
   date_start = "2016-12-01"
   date_end = "2020-11-30"
   description = """
-  成就包括：
-   -快速的CT装置开发
-   -图像重建与处理
-   -AI图像降噪
+  成就包括：快速的CT装置开发，图像重建与处理，AI图像降噪
    
    ---  
   <img src="https://github.com/XuHongCN/academia/raw/master/static/img/psi.png" style="float:right" width="80px">
