@@ -15,33 +15,33 @@
   [zh.params]
     description = "徐泓 | 为世界和平"
   [[zh.menu.main]]
-    name = "Home"
+    name = "主页"
     url = "#about"
     weight = 10
 
   [[zh.menu.main]]
-    name = "Posts"
+    name = "动态"
     url = "#posts"
     weight = 20
 
   [[zh.menu.main]]
-    name = "Projects"
+    name = "项目"
     url = "#projects"
     weight = 30
 
   [[zh.menu.main]]
-    name = "Publications"
+    name = "出版物"
     url = "#featured"
     weight = 40
 
   [[zh.menu.main]]
-    name = "Contact"
+    name = "与我联系"
     url = "#contact"
     weight = 60
 
   # Link to a PDF of your resume/CV from the menu.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
    [[zh.menu.main]]
-    name = "CV"
+    name = "简历"
     url = "files/Hong_Xu_CV.pdf"
     weight = 70
