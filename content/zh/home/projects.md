@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
-subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
+title = "项目展示"
+subtitle = "学术研究 | 数据分析 | 商业分析"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,23 +22,23 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "全部"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Energy"
+    name = "能源"
     tag = "Energy"
   
   [[content.filter_button]]
-    name = "Imaging"
+    name = "成像"
     tag = "Imaging"
     
   [[content.filter_button]]
-    name = "Business"
+    name = "商业"
     tag = "Business"
 
   [[content.filter_button]]
-    name = "Data Science"
+    name = "数据科学"
     tag = "Data Science"
 
 [design]
