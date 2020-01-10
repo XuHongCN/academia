@@ -1,6 +1,6 @@
 ---
 title: "硕士论文: 嵌入金属氧化物纳米粒子的热敏性嵌段共聚物的结构与性能及其在磁性传感器中的应用"
-summary: Nanostructured polymer-metal oxide composites are of great importance due to its highlight applications in sensors, optics, catalysts and drug delivery.
+summary: 纳米结构的聚合物-金属氧化物复合材料非常重要，因为它在传感器，光学，催化剂和药物输送中的突出应用。
 tags:
 - Polymer
 - Sensor
