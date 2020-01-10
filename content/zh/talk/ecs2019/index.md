@@ -2,7 +2,7 @@
 title: 薄膜氢氧燃料电池的亚微米和亚秒级原位CT成像极限的进展报告
 event: 美国电化学学会年度会议
 event_url:
-location: Atlanta, USA
+location: 亚特兰大希尔顿, 美国
 summary: 获美国陆军研究办公室和海军研究办公室授予的ECS旅行补助金赴美国亚特兰大举行的ECS年会上就PEFC的0.1s/10Hz操作XTM主题发表演讲。
 abstract: ""
 
