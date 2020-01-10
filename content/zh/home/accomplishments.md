@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "教育背景"
-subtitle = "能源与计算机成像研究 & 数据科学/商业分析"
+subtitle = "新能源 | 计算机成像 | 数据科学 | 商业分析"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -46,11 +46,11 @@ date_format = "Jan 2006"
   date_start = "2014-09-01"
   date_end = "2016-10-01"
   description = """
-  * GPA 1.43/1.0; Master Thesis (1.3/1.0); EU Erasmus+ Scholarship; 
-  * S. Courses: Quantum Mechanics; Thermodynamics; Energy Materials
-  * Lab Internship (1.0/1.0); Energy Seminar Presentation (1.0/1.0)
-  * EU Erasmus Exchange in Physics at Uni. Rennes I, FR (GPA 15.6/20)
-  * Neutron & X-ray Summer School at Uni. Montpellier; DPG Member
+  * GPA 1.43/1.0; 优秀硕士毕业设计(1.3/1.0); 欧盟伊拉斯谟奖学金; 
+  * 课程: 量子力学; 热力学及统计; 能源材料; 晶体学
+  * 实验室实习(1.0/1.0); 能源材料研讨会展示(1.0/1.0)
+  * 欧盟伊拉斯谟交换生, 物理学, 法国雷恩第一大学 (GPA 15.6/20)
+  * X光与中子散射暑期学校, 法国蒙彼利埃大学; 德国物理学会会员
   ---
  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/tum.png" style="float:right" width="70px">
   """
@@ -64,10 +64,10 @@ date_format = "Jan 2006"
   date_start = "2009-09-01"
   date_end = "2013-06-01"
   description = """
-  * GPA 90.3/100; Innovation Scholarship; 3 years Learning Scholarship
-  * 3 Granted Patents; 1 Published Papers; Bachelor Thesis (A+)
-  * Finalist in TECO Green Tech Contest, Solar Cell Applications
-  * Bronze in “Challenge Cup” Business Plan Competition
+  * GPA 90.3/100; 创新奖学金; 3年学习奖学金
+  * 3项发明专利; 1篇文章发表; 本科毕业设计(优秀)
+  * 台湾东元科技创意竞赛决赛入围
+  * 第八届挑战杯商业计划大赛国家级铜奖
   ---  
  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/bjtu.png" style="float:right" width="100px">
   """
@@ -81,11 +81,11 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-06-01"
   description = """
-  * 7% admission rate, online program, professional education
-  * Courses: Accounting, Markets & Economies, Data & Decisions
-  * Leading Organizations, Marketing & Pricing, Corporate Finance
-  * Supply Chain&Operations, Strategy&Innovation, Enterpreneurship
-  * Collaborative case study groups, presentations, networking
+  * 7%录取率, 在线学习, MBA职业教育
+  * 课程: 会计，市场与经济，数据与决策
+  * 领导力，市场营销与定价，企业融资
+  * 供应链与运营，战略与创新，创业精神
+  * 协作案例研究小组，演示文稿，职业交流
   ---
   <img src="https://github.com/XuHongCN/academia/raw/master/static/img/smartly.png" style="float:right" width="100px">
   """
