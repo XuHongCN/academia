@@ -1,5 +1,5 @@
 ---
-title: "How Should Aldi Strengthen their position in the U.S. Market?"
+title: "德国零售业巨头Aldi应该如何加强其在美国市场的地位？"
 summary: A case study of expansion strategy of German brand Aldi in US with its unique business model.
 tags:
 - Business
@@ -12,6 +12,6 @@ date: "2017-10-30T00:00:00Z"
 external_link: "files/Aldi_Case_Study.pdf"
 
 image:
-  caption: "Design of Split and Delay Line "
+  caption: "Aldi"
   focal_point: Smart
 ---
