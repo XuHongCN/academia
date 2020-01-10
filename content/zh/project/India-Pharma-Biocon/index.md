@@ -1,6 +1,6 @@
 ---
-title: "Future Through the Lens of Biocon :The Indian Pharmaceutical Industry"
-summary: Business advantages and disadvantages analysis of starting a business in India Pharmaceutical Industry
+title: "印度Biocon医药公司视角的未来：印度制药业"
+summary: 以印度Biocon公司为例，在印度制药行业开展商业优缺点分析
 tags:
 - Business
 - India
