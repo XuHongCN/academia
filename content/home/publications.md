@@ -1,5 +1,6 @@
 ---
 title: Publications
+weight = 90  # Order that this section will appear.
 
 # View.
 #   1 = List
