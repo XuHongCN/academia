@@ -56,9 +56,9 @@ date_format = "Jan 2006"
   """
 
 [[item]]
-  organization = "B.Sc, Materials Science/Solar Cells"
+  organization = "本科, 材料科学/太阳能电池及锂电"
   organization_url = ""
-  title = ":cn: Beijing Jiaotong University, China"
+  title = ":cn: 中国 · 北京交通大学 (BJTU)"
   url = "http://en.bjtu.edu.cn/"
   certificate_url = ""
   date_start = "2009-09-01"
@@ -73,9 +73,9 @@ date_format = "Jan 2006"
   """
  
  [[item]]
-  organization = "MBA Candidate, Business Administration"
+  organization = "MBA候选人, 工商管理"
   organization_url = ""
-  title = ":us: Smartly Business School, Washington D.C."
+  title = ":us: 美国 · Smartly商学院 (D.C.)"
   url = "https://smart.ly/the-free-mba"
   certificate_url = ""
   date_start = "2019-10-01"
