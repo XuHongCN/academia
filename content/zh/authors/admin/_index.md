@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xu, Hong | 徐 泓
+name: 徐 泓
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate    
+role: 博士生    
 
 # Organizations/Affiliations
 organizations:
-- name: ETH Zürich, Switzerland
+- name: 苏黎世联邦理工, 瑞士
   url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
