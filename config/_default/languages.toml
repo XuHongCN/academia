@@ -11,7 +11,7 @@
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-  title = "「徐 泓」"
+  title = "徐 泓"
   [zh.params]
     description = "徐泓 | 为世界和平"
   [[zh.menu.main]]
