@@ -1,10 +1,10 @@
 ---
-title: "Ultrasonic-photocatalytic oxidation coupled fruit and vegetable cleaning device"
+title: "超声 - 光催化氧化耦合果蔬清洗装置 [P]"
 authors:
-- Xingzhen Zhou
-- Hong Xu
-- Prof. Hong Jiang
-- Xiaoyue Qi
+- 周兴振
+- 徐泓[BJTU]
+- 江红教授
+- 祁晓月
 date: "2012-07-11T00:00:00Z"
 doi: "https://patents.google.com/patent/CN202311136U/en"
 
