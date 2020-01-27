@@ -75,11 +75,11 @@ date_format = "Jan 2006"
  [[item]]
   organization = "MBA候选人, 工商管理"
   organization_url = ""
-  title = ":us: 美国 · Smartly商学院 (D.C.)"
-  url = "https://smart.ly/the-free-mba"
+  title = ":us: 美国 · Quantic商学院 (D.C.)"
+  url = "https://quantic.mba/"
   certificate_url = ""
   date_start = "2019-10-01"
-  date_end = "2020-06-01"
+  date_end = "2020-09-30"
   description = """
   * 7%录取率, 在线学习, MBA职业教育
   * 课程: 会计，市场与经济，数据与决策
