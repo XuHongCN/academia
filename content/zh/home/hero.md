@@ -43,7 +43,7 @@ hero_media = "portfolio1-crop.jpg"
 
 +++
 ## 我是谁？
-## **ETH博士研究员**, MBA Fellow
+## **ETH博士研究员**
 ## 致力**可再生能源**与**计算机成像**研究
 
 你好！ 目前我是瑞士苏黎世联邦理工的一名博士生，美国Quantic商学院的MBA在读。
