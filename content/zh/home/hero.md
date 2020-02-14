@@ -43,10 +43,10 @@ hero_media = "portfolio1-crop.jpg"
 
 +++
 ## 我是谁？
-## **ETH博士研究员**
+## **ETH博士研究员**, MBA Fellow
 ## 致力**可再生能源**与**计算机成像**研究
 
-你好！ 目前我是瑞士苏黎世联邦理工的一名博士生，美国Smartly商学院的MBA在读。
+你好！ 目前我是瑞士苏黎世联邦理工的一名博士生，美国Quantic商学院的MBA在读。
 
 <a href="//24timezones.com/zh_shi/zurich_shi_zhong.php" style="text-decoration: none" class="clock24" id="tz24-1578652361-c1268-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJ6aCJ9" title="苏黎世 时间" target="_blank" rel="nofollow">苏黎世时间</a>
 <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
