@@ -73,9 +73,9 @@ date_format = "Jan 2006"
   """
  
  [[item]]
-  organization = "MBA Candidate, Business Administration"
+  organization = "MBA Fellow, Business Administration"
   organization_url = ""
-  title = ":us: Smartly Business School, Washington D.C."
+  title = ":us: Quantic School of Business, Washington D.C."
   url = "https://smart.ly/the-free-mba"
   certificate_url = ""
   date_start = "2019-10-01"
