@@ -72,10 +72,10 @@ user_groups:
 ---
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:2px 7px;
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:2px 0px;
   word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
-  overflow:hidden;padding:2px 7px;word-break:normal;}
+  overflow:hidden;padding:2px 0px;word-break:normal;}
 .tg .tg-bhpp{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-wtfe{color:#f56b00;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
@@ -89,19 +89,19 @@ user_groups:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nx8p"><span style="font-weight:400;font-style:normal">2017-2021 | </span>PhD Candidate, Chemistry</td>
+    <td class="tg-nx8p"><span style="font-weight:400;font-style:normal">2017-2021 </span>Ph.D, Chemistry </td>
     <td class="tg-nx8p">2016-2021 | Doctoral Researcher</td>
   </tr>
   <tr>
-    <td class="tg-wtfe">ETH Zurich, Switzerland<br>  </td>
+    <td class="tg-wtfe">ETH Zurich, Switzerland<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-wtfe">Paul Scherrer Institute, Switzerland<br></td>
   </tr>
   <tr>
-    <td class="tg-nx8p">2015-2016 | M.Sc, Geomaterials &amp; Geochemistry            </td>
+    <td class="tg-nx8p">2015-2016 | M.Sc, Geomaterials       </td>
     <td class="tg-nx8p">2015-2016 | Working Student</td>
   </tr>
   <tr>
-    <td class="tg-wtfe">Technical University of Munich, Germany<br>   </td>
+    <td class="tg-wtfe">Technical University of Munich, Germany<br>                          </td>
     <td class="tg-wtfe">Infineon Technologies AG, Germany</td>
   </tr>
   <tr>
@@ -109,11 +109,11 @@ user_groups:
     <td class="tg-nx8p">2015-2015 | Summer Intern<br></td>
   </tr>
   <tr>
-    <td class="tg-wtfe">University of Rennes 1<br>  </td>
+    <td class="tg-wtfe">University of Rennes 1<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-wtfe">European XFEL GmbH, Germany</td>
   </tr>
   <tr>
-    <td class="tg-nx8p">2009-2013 | B.Sc, Materials Chemistry</td>
+    <td class="tg-nx8p">2009-2013 | B.Sc, Materials Chemistry &nbsp &nbsp &nbsp &nbsp &nbsp</td>
     <td class="tg-nx8p"></td>
   </tr>
   <tr>
