@@ -111,8 +111,8 @@ user_groups:
     <td class="tg-nx8p">2015-2015 | Summer Intern<br></td>
   </tr>
   <tr>
-    <td class="tg-wtfe">University of Rennes 1, France<br>             </td>
-    <td class="tg-wtfe">European XFEL GmbH, Germany</td>
+    <td class="tg-wtfe">University of Rennes 1, France<br>             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-wtfe">European XFEL GmbH, Germany<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-nx8p">2009-2013 | B.Sc, Materials Chemistry            </td>
