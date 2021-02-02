@@ -72,6 +72,22 @@ user_groups:
 ---
 <p  align="justify"> On the Three Kings' Day 2021 in Switzerland, I'm so grateful to announce that I have successfully defended my 190 pages PhD thesis at <strong><a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a></strong> with accumulated exciting research at  <strong><a href="https://www.psi.ch/en" target="_blank">Paul Scherrer Institute</a></strong> (PSI) and collaboration from  <strong><a href="https://www.toyota-europe.com/" target="_blank">Toyota Motor Europe</a></strong> (TME) Toyota Motor Europe, on the topic of "Subsecond Operando X-ray Tomographic Microscopy of Liquid Water in Polymer Electrolyte Fuel Cells".</p> 
 
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td>
+            <!--左侧内容-->
+            Education
+        </td>
+        <td>
+            <!--右侧内容-->
+            Work Experience
+        </td>
+    </tr>
+</table>
+
+
+
+
 <!-- <p  align="justify">Grown up in the middle east of China in a small acqua town by the Yangtze River, I was a little boy who was luckily gifted with abundant curiosities towards the grand world. After 4 years of bachelor studies in Beijing, I started my "Journey to the West" at 20 years old in 2014. With great memories left in Rennes, France and Munich, Germany for my master studies under Erasmus Mundus MaMaSELF program, I luckily joined ETH as a PhD student in 2016. It is an once-in-a-life-time experience, that shaped my mind, life and future.
 
 AQG -> PEK -> CDG -> HAM -> MUC -> ZRH ✈ ?-->
