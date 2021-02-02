@@ -70,65 +70,65 @@ user_groups:
 - Researchers
 - Visitors
 ---
-<p  align="justify"> On the Three Kings' Day 2021 in Switzerland, I'm so grateful to announce that I have successfully defended my 190 pages PhD thesis at <strong><a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a></strong> with accumulated exciting research at  <strong><a href="https://www.psi.ch/en" target="_blank">Paul Scherrer Institute</a></strong> (PSI) and collaboration from  <strong><a href="https://www.toyota-europe.com/" target="_blank">Toyota Motor Europe</a></strong> (TME) Toyota Motor Europe, on the topic of "Subsecond Operando X-ray Tomographic Microscopy of Liquid Water in Polymer Electrolyte Fuel Cells".</p> 
-
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
-  padding:5px 19px;word-break:normal;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:0px 0px;
+  word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
-  overflow:hidden;padding:5px 19px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-pe1m{font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+  overflow:hidden;padding:0px 0px;word-break:normal;}
+.tg .tg-bhpp{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-wtfe{color:#f56b00;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-pe1m">Education</th>
-    <th class="tg-pe1m">Work Experience</th>
+    <th class="tg-bhpp">Education</th>
+    <th class="tg-bhpp">Work Experience</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-x5q1">PhD Candidate, Chemistry</td>
-    <td class="tg-x5q1">Doctoral Researcher</td>
+    <td class="tg-nx8p"><span style="font-weight:400;font-style:normal">2017-2021 | </span>PhD Candidate, Chemistry</td>
+    <td class="tg-nx8p">2016-2021 | Doctoral Researcher</td>
   </tr>
   <tr>
-    <td class="tg-0lax">ETH Zurich, Switzerland<br>&nbsp;&nbsp;</td>
-    <td class="tg-0lax">Paul Scherrer Institute, Switzerland<br></td>
+    <td class="tg-wtfe">ETH Zurich, Switzerland<br>  </td>
+    <td class="tg-wtfe">Paul Scherrer Institute, Switzerland<br></td>
   </tr>
   <tr>
-    <td class="tg-x5q1">M.Sc, Geomaterials &amp; Geochemistry</td>
-    <td class="tg-x5q1">Working Student</td>
+    <td class="tg-nx8p">2015-2016 | M.Sc, Geomaterials &amp; Geochemistry            </td>
+    <td class="tg-nx8p">2015-2016 | Working Student</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Technical University of Munich, Germany<br>&nbsp;&nbsp;</td>
-    <td class="tg-0lax">Infineon Technologies AG, Germany</td>
+    <td class="tg-wtfe">Technical University of Munich, Germany<br>  </td>
+    <td class="tg-wtfe">Infineon Technologies AG, Germany</td>
   </tr>
   <tr>
-    <td class="tg-x5q1">M. Sc, Physics</td>
-    <td class="tg-x5q1">Summer Intern<br></td>
+    <td class="tg-nx8p">2014-2015 | M. Sc, Physics</td>
+    <td class="tg-nx8p">2015-2015 | Summer Intern<br></td>
   </tr>
   <tr>
-    <td class="tg-0lax">University of Rennes 1<br>&nbsp;&nbsp;</td>
-    <td class="tg-0lax">European XFEL GmbH, Germany</td>
+    <td class="tg-wtfe">University of Rennes 1<br>  </td>
+    <td class="tg-wtfe">European XFEL GmbH, Germany</td>
   </tr>
   <tr>
-    <td class="tg-x5q1">B.Sc, Materials Chemistry</td>
-    <td class="tg-x5q1"></td>
+    <td class="tg-nx8p">2009-2013 | B.Sc, Materials Chemistry</td>
+    <td class="tg-nx8p"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Beijing Jiaotong University, China</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-wtfe">Beijing Jiaotong University, China</td>
+    <td class="tg-wtfe"></td>
   </tr>
 </tbody>
 </table>
 
 
 
+<!-- 
+<p  align="justify"> On the Three Kings' Day 2021 in Switzerland, I'm so grateful to announce that I have successfully defended my 190 pages PhD thesis at <strong><a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a></strong> with accumulated exciting research at  <strong><a href="https://www.psi.ch/en" target="_blank">Paul Scherrer Institute</a></strong> (PSI) and collaboration from  <strong><a href="https://www.toyota-europe.com/" target="_blank">Toyota Motor Europe</a></strong> (TME) Toyota Motor Europe, on the topic of "Subsecond Operando X-ray Tomographic Microscopy of Liquid Water in Polymer Electrolyte Fuel Cells".</p> 
 
-<!-- <p  align="justify">Grown up in the middle east of China in a small acqua town by the Yangtze River, I was a little boy who was luckily gifted with abundant curiosities towards the grand world. After 4 years of bachelor studies in Beijing, I started my "Journey to the West" at 20 years old in 2014. With great memories left in Rennes, France and Munich, Germany for my master studies under Erasmus Mundus MaMaSELF program, I luckily joined ETH as a PhD student in 2016. It is an once-in-a-life-time experience, that shaped my mind, life and future.
+<p  align="justify">Grown up in the middle east of China in a small acqua town by the Yangtze River, I was a little boy who was luckily gifted with abundant curiosities towards the grand world. After 4 years of bachelor studies in Beijing, I started my "Journey to the West" at 20 years old in 2014. With great memories left in Rennes, France and Munich, Germany for my master studies under Erasmus Mundus MaMaSELF program, I luckily joined ETH as a PhD student in 2016. It is an once-in-a-life-time experience, that shaped my mind, life and future.
 
 AQG -> PEK -> CDG -> HAM -> MUC -> ZRH ✈ ?-->
 
