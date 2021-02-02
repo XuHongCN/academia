@@ -70,6 +70,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+   
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-spacing:0;}
 .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:2px 0px;
@@ -109,7 +111,7 @@ user_groups:
     <td class="tg-nx8p">2015-2015 | Summer Intern<br></td>
   </tr>
   <tr>
-    <td class="tg-wtfe">University of Rennes 1<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-wtfe">University of Rennes 1, France<br>             </td>
     <td class="tg-wtfe">European XFEL GmbH, Germany</td>
   </tr>
   <tr>
