@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   organization = "10+ years studies"
   organization_url = ""
   title = "Education"
-  url = "https://ethz.ch/en.html"
+  url = ""
   certificate_url = ""
   date_start = "2014-09-01"
   date_end = "2016-10-01"
@@ -41,15 +41,25 @@ date_format = "Jan 2006"
 """
 
 [[item]]
-  organization = "M.Sc, Geomaterials & Physics"
+  organization = "5+ years research"
   organization_url = ""
-  title = ":de: Technical University of Munich, Germany"
-  url = "https://www.tum.de/en/"
+  title = "Work Experience"
+  url = ""
   certificate_url = ""
   date_start = "2014-09-01"
   date_end = "2016-10-01"
   description = """
-  * EU Erasmus Exchange at Uni. Rennes I, FR
+  * 2016-2021 | Doctoral Researcher, Fuel Cell CT Imaging 
+  * Paul Scherrer Institute, Switzerland. 
+  * 2017-2019 | Teaching Assistant, Renewable Energy Tech. 
+  * ETH Zürich, Swtizerland.
+  * 2015-2016 | Working Student, Failure Analysis 
+  * Infineon Technologies AG, Germany. 
+  * 2015-2016 | Research Assistant, Polymer Physics 
+  * Techinical University of Munich, Germany. 
+  * 2015-2015 | Mechanical Intern, SDL Prototyping 
+  * European XFEL GmbH, Germany. 
+  
   ---
  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/tum.png" style="float:right" width="70px">
   """
