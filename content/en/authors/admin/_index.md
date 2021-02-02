@@ -78,6 +78,7 @@ user_groups:
   word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:2px 0px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-bhpp{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-wtfe{color:#f56b00;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
@@ -91,12 +92,20 @@ user_groups:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nx8p"><span style="font-weight:400;font-style:normal">2017-2021 </span>Ph.D, Chemistry </td>
+    <td class="tg-nx8p">2017-2021 | Ph.D, Chemistry</td>
     <td class="tg-nx8p">2016-2021 | Doctoral Researcher</td>
   </tr>
   <tr>
     <td class="tg-wtfe">ETH Zurich, Switzerland<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-wtfe">Paul Scherrer Institute, Switzerland<br></td>
+  </tr>
+  <tr>
+    <td class="tg-nx8p">2020-2021 | MBA, Business Administration</td>
+    <td class="tg-nx8p">2020-2021 |Equity Research PTA</td>
+  </tr>
+  <tr>
+    <td class="tg-wtfe">Quantic School of Business, USA (remote)<br>                                                  </td>
+    <td class="tg-x5q1"><span style="color:#F56B00">CITIC Securities, China (remote)</span><br>                                 </td>
   </tr>
   <tr>
     <td class="tg-nx8p">2015-2016 | M.Sc, Geomaterials       </td>
