@@ -74,10 +74,10 @@ user_groups:
    
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:2px 0px;
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:1px 0px;
   word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
-  overflow:hidden;padding:2px 0px;word-break:normal;}
+  overflow:hidden;padding:1px 0px;word-break:normal;}
 .tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-bhpp{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-wtfe{color:#f56b00;font-size:16px;text-align:left;vertical-align:top}
@@ -96,7 +96,7 @@ user_groups:
     <td class="tg-nx8p">2016-2021 | Doctoral Researcher</td>
   </tr>
   <tr>
-    <td class="tg-wtfe">ETH Zurich, Switzerland<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-wtfe">ETH Zurich, Switzerland<br>                            </td>
     <td class="tg-wtfe">Paul Scherrer Institute, Switzerland<br></td>
   </tr>
   <tr>
