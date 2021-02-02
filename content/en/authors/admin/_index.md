@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate     
+role: Interdisciplinary Background in Renewable Energy, Materials Science, and data science.     
 
 # Organizations/Affiliations
 organizations:
-- name:   ETH Zürich, Switzerland
+- name: 
   url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,10 +72,10 @@ user_groups:
 ---
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:0px 0px;
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:2px 7px;
   word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
-  overflow:hidden;padding:0px 0px;word-break:normal;}
+  overflow:hidden;padding:2px 7px;word-break:normal;}
 .tg .tg-bhpp{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-wtfe{color:#f56b00;font-size:16px;text-align:left;vertical-align:top}
 .tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
@@ -101,7 +101,7 @@ user_groups:
     <td class="tg-nx8p">2015-2016 | Working Student</td>
   </tr>
   <tr>
-    <td class="tg-wtfe">Technical University of Munich, Germany<br>  </td>
+    <td class="tg-wtfe">Technical University of Munich, Germany<br>   </td>
     <td class="tg-wtfe">Infineon Technologies AG, Germany</td>
   </tr>
   <tr>
@@ -122,7 +122,6 @@ user_groups:
   </tr>
 </tbody>
 </table>
-
 
 
 <!-- 
