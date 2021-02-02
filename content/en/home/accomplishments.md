@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Education"
-subtitle = "Energy & Imaging research specialist equipped with business analytics skills"
+title = "Education | Work Experience"
+subtitle = "Interdisciplinary Background in Renewable Energy, Materials Science, and Data Science"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -34,8 +34,26 @@ date_format = "Jan 2006"
   * IBM Data Science Professional Certificate (2019)
   * Intel Edge AI Scholarship Program (2019-20)
   ---  
+  
  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/eth.png" style="float:right" width="100px">
-  """
+  organization = "Ph.D. Candidate, Energy & CT Imaging"
+  organization_url = ""
+  title = "🇨🇭 ETH Zürich, Switzerland"
+  url = "https://ethz.ch/en.html"
+  certificate_url = ""
+  date_start = "2017-02-20"
+  date_end = "2020-11-30"
+  description = """
+  * SNF (Swiss) & TOYOTA Funded; ECS Travel Grant (US Army Res)
+  * Courses: Renewable Energy (Teach. Assist.); Big Data Imaging
+  * Supervising PSI Intern in CT Image Processing and AI Denoising
+  * Medical Imaging (CT/MRI) Training at University Hospital Zurich
+  * IBM Data Science Professional Certificate (2019)
+  * Intel Edge AI Scholarship Program (2019-20)
+  ---  
+ <img src="https://github.com/XuHongCN/academia/raw/master/static/img/eth.png" style="float:right" width="100px">
+
+"""
 
 [[item]]
   organization = "M.Sc, Geoscience/Sensor"
