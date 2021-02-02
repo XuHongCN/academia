@@ -74,6 +74,6 @@ user_groups:
 
 <!-- <p  align="justify">Grown up in the middle east of China in a small acqua town by the Yangtze River, I was a little boy who was luckily gifted with abundant curiosities towards the grand world. After 4 years of bachelor studies in Beijing, I started my "Journey to the West" at 20 years old in 2014. With great memories left in Rennes, France and Munich, Germany for my master studies under Erasmus Mundus MaMaSELF program, I luckily joined ETH as a PhD student in 2016. It is an once-in-a-life-time experience, that shaped my mind, life and future.
 
-AQG -> PEK -> CDG -> HAM -> MUC -> ZRH ✈ ?
+AQG -> PEK -> CDG -> HAM -> MUC -> ZRH ✈ ?-->
 
-<a href="https://info.flagcounter.com/D897"><img src="https://s01.flagcounter.com/count/D897/bg_F7F7F7/txt_404040/border_F7F7F7/columns_8/maxflags_16/viewers_3/labels_0/pageviews_1/flags_0/percent_0/" border="0" align="middle"></a>-->
+<a href="https://info.flagcounter.com/D897"><img src="https://s01.flagcounter.com/count/D897/bg_F7F7F7/txt_404040/border_F7F7F7/columns_8/maxflags_16/viewers_3/labels_0/pageviews_1/flags_0/percent_0/" border="0" align="middle"></a>
