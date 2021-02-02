@@ -18,7 +18,7 @@ organizations:
   url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include renewable energy, computational imaging and big data analytics.
+bio: My research interests focus on renewable energy, materials science, computational imaging and data science.
 
 interests:
 - Renewable Energy Technologies
