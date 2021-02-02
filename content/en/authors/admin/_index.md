@@ -108,7 +108,7 @@ user_groups:
     <td class="tg-x5q1"><span style="color:#F56B00">CITIC Securities, China (remote)</span><br>                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-nx8p">2015-2016 | M.Sc, Geomaterials       </td>
+    <td class="tg-nx8p">2015-2016 | M.Sc, Geomaterials       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td class="tg-nx8p">2015-2016 | Working Student</td>
   </tr>
   <tr>
@@ -116,7 +116,7 @@ user_groups:
     <td class="tg-wtfe">Infineon Technologies AG, Germany<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-nx8p">2014-2015 | M. Sc, Physics</td>
+    <td class="tg-nx8p">2014-2015 | M.Sc, Physics</td>
     <td class="tg-nx8p">2015-2015 | Summer Intern<br></td>
   </tr>
   <tr>
