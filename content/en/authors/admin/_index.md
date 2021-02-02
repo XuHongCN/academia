@@ -96,15 +96,15 @@ user_groups:
     <td class="tg-nx8p">2016-2021 | Doctoral Researcher</td>
   </tr>
   <tr>
-    <td class="tg-wtfe">ETH Zurich, Switzerland<br>                            </td>
-    <td class="tg-wtfe">Paul Scherrer Institute, Switzerland<br></td>
+    <td class="tg-wtfe">ETH Zurich, Switzerland<br>                                                           </td>
+    <td class="tg-wtfe">Paul Scherrer Institute, Switzerland<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-nx8p">2020-2021 | MBA, Business </td>
-    <td class="tg-nx8p">2020-2021 |Equity Research PTA</td>
+    <td class="tg-nx8p">2020-2021 | Equity Research PTA</td>
   </tr>
   <tr>
-    <td class="tg-wtfe">Quantic School of Business, USA (remote)<br>                                                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-wtfe">Quantic School of Business, USA (remote)<br>                                                         </td>
     <td class="tg-x5q1"><span style="color:#F56B00">CITIC Securities, China (remote)</span><br>                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
@@ -133,6 +133,7 @@ user_groups:
   </tr>
 </tbody>
 </table>
+
 
 <!-- 
 <p  align="justify"> On the Three Kings' Day 2021 in Switzerland, I'm so grateful to announce that I have successfully defended my 190 pages PhD thesis at <strong><a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a></strong> with accumulated exciting research at  <strong><a href="https://www.psi.ch/en" target="_blank">Paul Scherrer Institute</a></strong> (PSI) and collaboration from  <strong><a href="https://www.toyota-europe.com/" target="_blank">Toyota Motor Europe</a></strong> (TME) Toyota Motor Europe, on the topic of "Subsecond Operando X-ray Tomographic Microscopy of Liquid Water in Polymer Electrolyte Fuel Cells".</p> 
