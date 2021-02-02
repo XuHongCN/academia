@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role:      
+role: Interdisciplinary Background in Renewable Energy, Materials & Data science     
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name:   
   url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
