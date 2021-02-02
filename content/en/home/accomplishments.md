@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
+  organization = "Interdispinary Background"
   organization_url = ""
   title = "Education Background"
   url = "https://ethz.ch/en.html"
   certificate_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2014-09-01"
+  date_end = "2016-10-01"
   description = """
   2017-2021 | Ph.D. Candidate, Chemistry
   ETH Zürich, Switzerland.
