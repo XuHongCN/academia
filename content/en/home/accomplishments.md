@@ -61,6 +61,6 @@ date_format = "Jan 2006"
   * European XFEL GmbH, Germany. 
   
   ---
- <img src="https://github.com/XuHongCN/academia/raw/master/static/img/tum.png" style="float:right" width="70px">
+ <img src="https://github.com/XuHongCN/academia/raw/master/static/img/tum.png" style="float:right" width="70px"><img src="https://github.com/XuHongCN/academia/raw/master/static/img/psi.png" style="float:right" width="80px">
   """
 +++
