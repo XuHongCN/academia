@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Xu, Hong | 徐 泓
+name: Xu, Hong
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Interdisciplinary Background in Renewable Energy, Materials Science, and data science.     
+role:      
 
 # Organizations/Affiliations
 organizations:
