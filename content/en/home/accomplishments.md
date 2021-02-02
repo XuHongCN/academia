@@ -75,4 +75,20 @@ date_format = "Jan 2006"
   <img src="https://github.com/XuHongCN/academia/raw/master/static/img/smartly.png" style="float:right" width="100px">
   """
 
+<ul class="square">
+  <li>2017-2021 | <strong>Ph.D. Candidate, Chemistry</strong><br/>
+    <strong><a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a></strong>, Switzerland.<br/></p>
+
+  <li>2014-2016 | <strong>M.Sc, Geomaterials & Physics (EU dual-degree)</strong><br/>
+   <strong><a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a></strong>, Germany. (Merit)<br/>
+   <strong><a href="https://www.univ-rennes1.fr/" target="_blank">University of Rennes 1</a></strong>, France. (Très Bien)<br/></p>
+   <!--[<a href="https://xuhongcn.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf" target="_blank">Thesis</a>]-->
+
+  <li>2009-2013 | <strong>B.Sc, Materials Chemistry</strong><br/>
+    <strong><a href="http://en.bjtu.edu.cn/" target="_blank">Beijing Jiaotong University</a></strong>, China.<br/>
+    <!--[<a href="https://xuhongcn.github.io/files/Master_Thesis_LMU_TUM-Xu_Hong.pdf" target="_blank">Thesis</a>]-->
+
+</ul>
+
+
 +++
