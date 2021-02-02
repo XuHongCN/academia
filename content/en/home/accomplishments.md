@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Education"
-subtitle = "Interdisciplinary Background in Renewable Energy, Materials Science, and Data Science"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,15 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Ph.D. Candidate, Chemistry"
+  organization = ""
   organization_url = ""
-  title = "🇨🇭 ETH Zürich, Switzerland"
+  title = "Education Background"
   url = "https://ethz.ch/en.html"
   certificate_url = ""
-  date_start = "2017-02-20"
-  date_end = "2020-11-30"
+  date_start = ""
+  date_end = ""
   description = """
-  * SNF (Swiss) & TOYOTA Funded; ECS Travel Grant (US Army Res)
+  2017-2021 | Ph.D. Candidate, Chemistry
+  ETH Zürich, Switzerland.
+  2014-2016 | M.Sc, Geomaterials & Physics (EU dual-degree)
+  Technical University of Munich, Germany. (Merit)
+  University of Rennes 1, France. (Très Bien)
+  2009-2013 | B.Sc, Materials Chemistry
+  Beijing Jiaotong University, China.
+
   ---  
  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/eth.png" style="float:right" width="100px">
 
@@ -46,41 +53,4 @@ date_format = "Jan 2006"
   ---
  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/tum.png" style="float:right" width="70px">
   """
-
-[[item]]
-  organization = "B.Sc, Materials Science/Solar Cells"
-  organization_url = ""
-  title = ":cn: Beijing Jiaotong University, China"
-  url = "http://en.bjtu.edu.cn/"
-  certificate_url = ""
-  date_start = "2009-09-01"
-  date_end = "2013-06-01"
-  description = """
-  * Innovation Scholarship; 3 years Learning Scholarship
-  ---  
- <img src="https://github.com/XuHongCN/academia/raw/master/static/img/bjtu.png" style="float:right" width="100px">
-  """
- 
- [[item]]
-  organization = "MBA Fellow, Business Administration"
-  organization_url = ""
-  title = ":us: Quantic School of Business, Washington D.C."
-  url = "https://quantic.mba/"
-  certificate_url = ""
-  date_start = "2019-10-01"
-  date_end = "2021-02-03"
-  description = """
-  * 7% admission rate, online program, professional education
-  ---
-  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/smartly.png" style="float:right" width="100px">
-  """
-
 +++
-
-2017-2021 | Ph.D. Candidate, Chemistry
-ETH Zürich, Switzerland.
-2014-2016 | M.Sc, Geomaterials & Physics (EU dual-degree)
-Technical University of Munich, Germany. (Merit)
-University of Rennes 1, France. (Très Bien)
-2009-2013 | B.Sc, Materials Chemistry
-Beijing Jiaotong University, China.
