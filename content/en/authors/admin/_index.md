@@ -102,7 +102,7 @@ user_groups:
   </tr>
   <tr>
     <td class="tg-wtfe">Technical University of Munich, Germany<br>                          </td>
-    <td class="tg-wtfe">Infineon Technologies AG, Germany</td>
+    <td class="tg-wtfe">Infineon Technologies AG, Germany<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-nx8p">2014-2015 | M. Sc, Physics</td>
@@ -113,7 +113,7 @@ user_groups:
     <td class="tg-wtfe">European XFEL GmbH, Germany</td>
   </tr>
   <tr>
-    <td class="tg-nx8p">2009-2013 | B.Sc, Materials Chemistry &nbsp &nbsp &nbsp &nbsp &nbsp</td>
+    <td class="tg-nx8p">2009-2013 | B.Sc, Materials Chemistry            </td>
     <td class="tg-nx8p"></td>
   </tr>
   <tr>
