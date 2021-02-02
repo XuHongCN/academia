@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Education"
+title = "Background"
 subtitle = ""
 
 # Date format
@@ -19,21 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Interdispinary Background"
+  organization = "10+ years studies"
   organization_url = ""
-  title = "Education Background"
+  title = "Education"
   url = "https://ethz.ch/en.html"
   certificate_url = ""
   date_start = "2014-09-01"
   date_end = "2016-10-01"
   description = """
-  2017-2021 | Ph.D. Candidate, Chemistry
-  ETH Zürich, Switzerland.
-  2014-2016 | M.Sc, Geomaterials & Physics (EU dual-degree)
-  Technical University of Munich, Germany. (Merit)
-  University of Rennes 1, France. (Très Bien)
-  2009-2013 | B.Sc, Materials Chemistry
-  Beijing Jiaotong University, China.
+  * 2017-2021 | Ph.D. Candidate, Chemistry
+  * ETH Zürich, Switzerland.
+  * 2014-2016 | M.Sc, Geomaterials & Physics (EU dual-degree)
+  * Technical University of Munich, Germany. (Merit)
+  * University of Rennes 1, France. (Très Bien)
+  * 2009-2013 | B.Sc, Materials Chemistry
+  * Beijing Jiaotong University, China.
 
   ---  
  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/eth.png" style="float:right" width="100px">
