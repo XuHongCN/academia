@@ -72,17 +72,57 @@ user_groups:
 ---
 <p  align="justify"> On the Three Kings' Day 2021 in Switzerland, I'm so grateful to announce that I have successfully defended my 190 pages PhD thesis at <strong><a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a></strong> with accumulated exciting research at  <strong><a href="https://www.psi.ch/en" target="_blank">Paul Scherrer Institute</a></strong> (PSI) and collaboration from  <strong><a href="https://www.toyota-europe.com/" target="_blank">Toyota Motor Europe</a></strong> (TME) Toyota Motor Europe, on the topic of "Subsecond Operando X-ray Tomographic Microscopy of Liquid Water in Polymer Electrolyte Fuel Cells".</p> 
 
-<table style="margin-left: auto; margin-right: auto;">
-    <tr>
-        <td>
-            <!--左侧内容-->
-            Education
-        </td>
-        <td>
-            <!--右侧内容-->
-            Work Experience
-        </td>
-    </tr>
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:5px 19px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:5px 19px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-pe1m{font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pe1m">Education</th>
+    <th class="tg-pe1m">Work Experience</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-x5q1">PhD Candidate, Chemistry</td>
+    <td class="tg-x5q1">Doctoral Researcher</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">ETH Zurich, Switzerland<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax">Paul Scherrer Institute, Switzerland<br></td>
+  </tr>
+  <tr>
+    <td class="tg-x5q1">M.Sc, Geomaterials &amp; Geochemistry</td>
+    <td class="tg-x5q1">Working Student</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Technical University of Munich, Germany<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax">Infineon Technologies AG, Germany</td>
+  </tr>
+  <tr>
+    <td class="tg-x5q1">M. Sc, Physics</td>
+    <td class="tg-x5q1">Summer Intern<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">University of Rennes 1<br>&nbsp;&nbsp;</td>
+    <td class="tg-0lax">European XFEL GmbH, Germany</td>
+  </tr>
+  <tr>
+    <td class="tg-x5q1">B.Sc, Materials Chemistry</td>
+    <td class="tg-x5q1"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Beijing Jiaotong University, China</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
 </table>
 
 
