@@ -31,11 +31,7 @@ date_format = "Jan 2006"
   * Courses: Renewable Energy (Teach. Assist.); Big Data Imaging
   * Supervising PSI Intern in CT Image Processing and AI Denoising
   * Medical Imaging (CT/MRI) Training at University Hospital Zurich
-  * IBM Data Science Professional Certificate (2019)
-  * Intel Edge AI Scholarship Program (2019-20)
-  ---  
-  
- <img src="https://github.com/XuHongCN/academia/raw/master/static/img/eth.png" style="float:right" width="100px">
+
   organization = "Ph.D. Candidate, Energy & CT Imaging"
   organization_url = ""
   title = "🇨🇭 ETH Zürich, Switzerland"
@@ -48,8 +44,6 @@ date_format = "Jan 2006"
   * Courses: Renewable Energy (Teach. Assist.); Big Data Imaging
   * Supervising PSI Intern in CT Image Processing and AI Denoising
   * Medical Imaging (CT/MRI) Training at University Hospital Zurich
-  * IBM Data Science Professional Certificate (2019)
-  * Intel Edge AI Scholarship Program (2019-20)
   ---  
  <img src="https://github.com/XuHongCN/academia/raw/master/static/img/eth.png" style="float:right" width="100px">
 
