@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   * Beijing Jiaotong University, China.
 
   ---  
- <img src="https://github.com/XuHongCN/academia/raw/master/static/img/eth.png" style="float:right" width="100px">
+ <img src="https://github.com/XuHongCN/academia/raw/master/static/img/eth.png" style="float:right" width="100px"><img src="https://github.com/XuHongCN/academia/raw/master/static/img/tum.png" style="float:right" width="70px">
 
 """
 
